@@ -1,0 +1,2613 @@
+source,target,weight
+Italy,Spain,2.0
+Slovenia,Serbia,1.0
+Serbia,Slovenia,1.0
+Denmark,England,1.0
+England,Denmark,1.0
+Canada,Argentina,2.0
+Poland,Austria,2.0
+Netherlands,France,1.0
+France,Netherlands,1.0
+Slovakia,Ukraine,2.0
+Vanuatu,New Zealand,3.5
+Peru,Chile,1.0
+Chile,Peru,1.0
+Romania,Belgium,2.0
+Georgia,Czech Republic,1.0
+Czech Republic,Georgia,1.0
+Turkey,Portugal,2.0
+Samoa,Papua New Guinea,3.5
+Tahiti,Fiji,3.5
+Ecuador,Venezuela,2.0
+Jamaica,Mexico,2.0
+Germany,Switzerland,1.0
+Switzerland,Germany,1.0
+Scotland,Hungary,2.0
+Bolivia,United States,2.0
+Panama,Uruguay,2.0
+Albania,Spain,2.0
+Croatia,Italy,1.0
+Italy,Croatia,1.0
+Paraguay,Colombia,2.0
+Brazil,Costa Rica,1.0
+Costa Rica,Brazil,1.0
+England,Slovenia,1.0
+Slovenia,England,1.0
+Denmark,Serbia,1.0
+Serbia,Denmark,1.0
+Netherlands,Austria,2.0
+France,Poland,1.0
+Poland,France,1.0
+Peru,Canada,2.0
+Chile,Argentina,2.0
+Slovakia,Romania,1.0
+Romania,Slovakia,1.0
+Ukraine,Belgium,1.0
+Belgium,Ukraine,1.0
+Portugal,Georgia,2.0
+Czech Republic,Turkey,2.0
+Jamaica,Ecuador,2.0
+Mexico,Venezuela,2.0
+Fiji,Vanuatu,3.5
+Tahiti,New Zealand,3.5
+United States,Panama,2.0
+Bolivia,Uruguay,2.0
+Costa Rica,Colombia,2.0
+Paraguay,Brazil,2.0
+Italy,Switzerland,2.0
+Denmark,Germany,2.0
+Peru,Argentina,2.0
+Canada,Chile,1.0
+Chile,Canada,1.0
+Slovakia,England,2.0
+Georgia,Spain,2.0
+Fiji,Tahiti,3.5
+Vanuatu,New Zealand,3.5
+Mexico,Ecuador,1.0
+Ecuador,Mexico,1.0
+Jamaica,Venezuela,2.0
+Belgium,France,2.0
+Portugal,Slovenia,1.0
+Slovenia,Portugal,1.0
+United States,Uruguay,2.0
+Bolivia,Panama,2.0
+Romania,Netherlands,2.0
+Austria,Turkey,2.0
+Brazil,Colombia,1.0
+Colombia,Brazil,1.0
+Paraguay,Costa Rica,2.0
+Argentina,Ecuador,1.0
+Ecuador,Argentina,1.0
+Germany,Spain,2.0
+Portugal,France,1.0
+France,Portugal,1.0
+Venezuela,Canada,1.0
+Canada,Venezuela,1.0
+England,Switzerland,1.0
+Switzerland,England,1.0
+Turkey,Netherlands,2.0
+Uruguay,Brazil,1.0
+Brazil,Uruguay,1.0
+Panama,Colombia,2.0
+France,Spain,2.0
+Canada,Argentina,2.0
+Netherlands,England,2.0
+Uruguay,Colombia,2.0
+Canada,Uruguay,1.0
+Uruguay,Canada,1.0
+England,Spain,2.0
+Colombia,Argentina,2.0
+Guatemala,El Salvador,1.0
+Jordan,North Korea,0.5
+North Korea,Jordan,0.5
+North Korea,Jordan,1.0
+Guatemala,Uruguay,0.5
+Uruguay,Guatemala,0.5
+Solomon Islands,Fiji,2.0
+Fiji,Hong Kong,1.0
+Hong Kong,Fiji,1.0
+India,Mauritius,1.75
+Mauritius,India,1.75
+Andorra,Gibraltar,1.0
+Tajikistan,Lebanon,2.0
+Philippines,Malaysia,2.0
+Comoros,Gambia,1.25
+Gambia,Comoros,1.25
+Libya,Rwanda,1.25
+Rwanda,Libya,1.25
+Niger,Sudan,2.5
+Tanzania,Ethiopia,1.25
+Ethiopia,Tanzania,1.25
+United States Virgin Islands,Bahamas,1.75
+Bahamas,United States Virgin Islands,1.75
+Turks and Caicos Islands,Anguilla,3.5
+British Virgin Islands,Cayman Islands,3.5
+Solomon Islands,Hong Kong,2.0
+Bhutan,Bangladesh,1.0
+Vietnam,Russia,1.0
+Sri Lanka,Cambodia,1.25
+Cambodia,Sri Lanka,1.25
+Mongolia,Timor-Leste,2.5
+Madagascar,Tunisia,2.5
+Lesotho,Central African Republic,2.5
+Equatorial Guinea,Algeria,2.5
+Ghana,Angola,2.5
+Eswatini,Guinea-Bissau,2.5
+South Sudan,Congo,2.5
+Malawi,Burundi,2.5
+Guyana,Suriname,3.5
+Guadeloupe,Costa Rica,3.5
+Martinique,Guatemala,3.5
+Montserrat,El Salvador,3.5
+Bonaire,Saint Vincent and the Grenadines,1.75
+Saint Vincent and the Grenadines,Bonaire,1.75
+Croatia,Portugal,3.5
+Scotland,Poland,3.5
+Switzerland,Denmark,3.5
+Serbia,Spain,1.75
+Spain,Serbia,1.75
+Azerbaijan,Sweden,3.5
+Estonia,Slovakia,3.5
+Luxembourg,Northern Ireland,3.5
+Belarus,Bulgaria,1.75
+Bulgaria,Belarus,1.75
+Liechtenstein,San Marino,3.5
+Venezuela,Bolivia,4.0
+Chile,Argentina,4.0
+Qatar,United Arab Emirates,4.0
+North Korea,Uzbekistan,4.0
+Kyrgyzstan,Iran,4.0
+Oman,Iraq,4.0
+South Korea,Palestine,2.0
+Palestine,South Korea,2.0
+Jordan,Kuwait,2.0
+Kuwait,Jordan,2.0
+China,Japan,4.0
+Australia,Bahrain,4.0
+Saudi Arabia,Indonesia,2.0
+Indonesia,Saudi Arabia,2.0
+Mauritius,Syria,3.5
+Macau,Brunei,2.5
+Gabon,Morocco,2.5
+Cape Verde,Egypt,2.5
+Togo,Liberia,1.25
+Liberia,Togo,1.25
+Sierra Leone,Chad,1.25
+Chad,Sierra Leone,1.25
+Zambia,Ivory Coast,2.5
+Guinea,DR Congo,2.5
+Mali,Mozambique,1.25
+Mozambique,Mali,1.25
+Kenya,Zimbabwe,1.25
+Zimbabwe,Kenya,1.25
+South Africa,Uganda,1.25
+Uganda,South Africa,1.25
+Senegal,Burkina Faso,1.25
+Burkina Faso,Senegal,1.25
+French Guiana,Nicaragua,3.5
+Jamaica,Cuba,1.75
+Cuba,Jamaica,1.75
+Trinidad and Tobago,Honduras,3.5
+Curaçao,Saint Lucia,3.5
+Saint Martin,Grenada,3.5
+Aruba,Sint Maarten,3.5
+Puerto Rico,Haiti,3.5
+Israel,Belgium,3.5
+France,Italy,3.5
+Kazakhstan,Norway,1.75
+Norway,Kazakhstan,1.75
+Slovenia,Austria,1.75
+Austria,Slovenia,1.75
+Montenegro,Iceland,3.5
+Wales,Turkey,1.75
+Turkey,Wales,1.75
+Kosovo,Romania,3.5
+Lithuania,Cyprus,3.5
+Cook Islands,Tonga,4.0
+American Samoa,Samoa,4.0
+Peru,Colombia,2.0
+Colombia,Peru,2.0
+Uruguay,Paraguay,2.0
+Paraguay,Uruguay,2.0
+Ecuador,Brazil,4.0
+New Zealand,Mexico,1.0
+United States,Canada,1.0
+Botswana,Mauritania,2.5
+Benin,Nigeria,2.5
+Namibia,Cameroon,2.5
+Bermuda,Dominican Republic,3.5
+Antigua and Barbuda,Dominica,3.5
+Bahamas,Barbados,3.5
+Turks and Caicos Islands,Belize,3.5
+Cayman Islands,Saint Kitts and Nevis,3.5
+Hungary,Germany,3.5
+Bosnia and Herzegovina,Netherlands,3.5
+Czech Republic,Georgia,3.5
+Ukraine,Albania,3.5
+Republic of Ireland,England,3.5
+Finland,Greece,3.5
+Faroe Islands,North Macedonia,1.75
+North Macedonia,Faroe Islands,1.75
+Latvia,Armenia,3.5
+Malta,Moldova,3.5
+Bangladesh,Bhutan,1.0
+Tajikistan,Philippines,1.0
+Philippines,Tajikistan,1.0
+Lebanon,Malaysia,2.0
+Gambia,Tunisia,2.5
+Montserrat,Saint Vincent and the Grenadines,3.5
+Bonaire,El Salvador,3.5
+Scotland,Portugal,3.5
+Poland,Croatia,3.5
+Serbia,Denmark,3.5
+Switzerland,Spain,3.5
+Azerbaijan,Slovakia,3.5
+Estonia,Sweden,3.5
+Luxembourg,Belarus,3.5
+Northern Ireland,Bulgaria,3.5
+Gibraltar,Liechtenstein,1.75
+Liechtenstein,Gibraltar,1.75
+India,Syria,3.5
+Madagascar,Comoros,1.25
+Comoros,Madagascar,1.25
+Lesotho,Morocco,2.5
+Equatorial Guinea,Togo,1.25
+Togo,Equatorial Guinea,1.25
+Niger,Ghana,1.25
+Ghana,Niger,1.25
+Sudan,Angola,2.5
+Ethiopia,DR Congo,2.5
+Congo,Uganda,2.5
+Burundi,Senegal,2.5
+Suriname,Guadeloupe,3.5
+Martinique,Guyana,1.75
+Guyana,Martinique,1.75
+Guatemala,Costa Rica,1.75
+Costa Rica,Guatemala,1.75
+Saint Martin,Curaçao,3.5
+Grenada,Saint Lucia,3.5
+Sint Maarten,Haiti,3.5
+Aruba,Puerto Rico,3.5
+Belgium,France,3.5
+Israel,Italy,3.5
+Austria,Norway,3.5
+Kazakhstan,Slovenia,3.5
+Montenegro,Wales,3.5
+Iceland,Turkey,3.5
+Cyprus,Kosovo,3.5
+Lithuania,Romania,3.5
+Tonga,Samoa,4.0
+Mexico,Canada,0.5
+Canada,Mexico,0.5
+San Marino,Moldova,1.0
+United States,New Zealand,0.5
+New Zealand,United States,0.5
+Vietnam,Thailand,1.0
+Cambodia,Sri Lanka,1.25
+Sri Lanka,Cambodia,1.25
+Macau,Brunei,2.5
+Timor-Leste,Mongolia,2.5
+Central African Republic,Gabon,2.5
+Botswana,Egypt,2.5
+Mauritania,Cape Verde,2.5
+Rwanda,Nigeria,1.25
+Nigeria,Rwanda,1.25
+Libya,Benin,2.5
+Liberia,Algeria,2.5
+Sierra Leone,Zambia,2.5
+Chad,Ivory Coast,2.5
+Guinea,Tanzania,2.5
+Guinea-Bissau,Mozambique,2.5
+Eswatini,Mali,2.5
+Namibia,Kenya,2.5
+South Sudan,South Africa,2.5
+Malawi,Burkina Faso,2.5
+Cuba,Nicaragua,1.75
+Nicaragua,Cuba,1.75
+Trinidad and Tobago,French Guiana,1.75
+French Guiana,Trinidad and Tobago,1.75
+Honduras,Jamaica,3.5
+Dominica,Dominican Republic,3.5
+Antigua and Barbuda,Bermuda,3.5
+United States Virgin Islands,Barbados,3.5
+Anguilla,Belize,3.5
+British Virgin Islands,Saint Kitts and Nevis,3.5
+Hungary,Bosnia and Herzegovina,1.75
+Bosnia and Herzegovina,Hungary,1.75
+Netherlands,Germany,1.75
+Germany,Netherlands,1.75
+Albania,Georgia,3.5
+Ukraine,Czech Republic,3.5
+Finland,England,3.5
+Republic of Ireland,Greece,3.5
+Faroe Islands,Latvia,3.5
+Armenia,North Macedonia,3.5
+Andorra,Malta,3.5
+Argentina,Colombia,4.0
+Peru,Ecuador,4.0
+Chile,Bolivia,4.0
+Venezuela,Uruguay,2.0
+Uruguay,Venezuela,2.0
+Brazil,Paraguay,4.0
+North Korea,Qatar,2.0
+Qatar,North Korea,2.0
+Kyrgyzstan,Uzbekistan,4.0
+United Arab Emirates,Iran,4.0
+Oman,South Korea,4.0
+Kuwait,Iraq,2.0
+Iraq,Kuwait,2.0
+Palestine,Jordan,4.0
+Bahrain,Japan,4.0
+Indonesia,Australia,2.0
+Australia,Indonesia,2.0
+China,Saudi Arabia,4.0
+Zimbabwe,Cameroon,1.25
+Cameroon,Zimbabwe,1.25
+Brunei,Timor-Leste,2.5
+United States Virgin Islands,Barbados,3.5
+Anguilla,Belize,3.5
+British Virgin Islands,Saint Kitts and Nevis,3.5
+Hong Kong,Liechtenstein,1.0
+Sri Lanka,Myanmar,1.0
+Cape Verde,Botswana,2.5
+Togo,Algeria,2.5
+Ghana,Sudan,1.25
+Sudan,Ghana,1.25
+Tanzania,DR Congo,2.5
+Namibia,Zimbabwe,2.5
+Burundi,Burkina Faso,2.5
+Cuba,Trinidad and Tobago,1.75
+Trinidad and Tobago,Cuba,1.75
+French Guiana,Honduras,3.5
+Nicaragua,Jamaica,3.5
+Bonaire,Montserrat,3.5
+Saint Vincent and the Grenadines,El Salvador,3.5
+Israel,France,3.5
+Italy,Belgium,1.75
+Belgium,Italy,1.75
+England,Greece,3.5
+Finland,Republic of Ireland,3.5
+Kazakhstan,Austria,3.5
+Slovenia,Norway,3.5
+Latvia,North Macedonia,3.5
+Faroe Islands,Armenia,1.75
+Armenia,Faroe Islands,1.75
+San Marino,Gibraltar,3.5
+Andorra,Moldova,3.5
+Colombia,Bolivia,4.0
+Ecuador,Paraguay,2.0
+Paraguay,Ecuador,2.0
+Venezuela,Argentina,2.0
+Argentina,Venezuela,2.0
+Chile,Brazil,4.0
+Papua New Guinea,New Caledonia,4.0
+Solomon Islands,Fiji,4.0
+Kyrgyzstan,Qatar,4.0
+Uzbekistan,Iran,2.0
+Iran,Uzbekistan,2.0
+United Arab Emirates,North Korea,2.0
+North Korea,United Arab Emirates,2.0
+Jordan,South Korea,4.0
+Kuwait,Oman,4.0
+Palestine,Iraq,4.0
+Bahrain,Indonesia,2.0
+Indonesia,Bahrain,2.0
+China,Australia,4.0
+Saudi Arabia,Japan,4.0
+Taiwan,Cambodia,1.0
+Madagascar,Gambia,1.25
+Gambia,Madagascar,1.25
+Tunisia,Comoros,2.5
+Gabon,Lesotho,1.25
+Lesotho,Gabon,1.25
+Mauritania,Egypt,2.5
+Rwanda,Benin,2.5
+Libya,Nigeria,2.5
+Liberia,Equatorial Guinea,2.5
+Niger,Angola,2.5
+Zambia,Chad,1.25
+Chad,Zambia,1.25
+Sierra Leone,Ivory Coast,2.5
+Mozambique,Eswatini,1.25
+Eswatini,Mozambique,1.25
+Guinea-Bissau,Mali,2.5
+Kenya,Cameroon,2.5
+South Sudan,Uganda,2.5
+Congo,South Africa,2.5
+Malawi,Senegal,2.5
+Guadeloupe,Martinique,3.5
+Suriname,Costa Rica,1.75
+Costa Rica,Suriname,1.75
+Guyana,Guatemala,3.5
+Grenada,Curaçao,1.75
+Curaçao,Grenada,1.75
+Saint Martin,Saint Lucia,3.5
+Puerto Rico,Sint Maarten,3.5
+Aruba,Haiti,3.5
+Bosnia and Herzegovina,Germany,3.5
+Hungary,Netherlands,1.75
+Netherlands,Hungary,1.75
+Albania,Czech Republic,3.5
+Georgia,Ukraine,3.5
+Iceland,Wales,1.75
+Wales,Iceland,1.75
+Montenegro,Turkey,3.5
+Azerbaijan,Estonia,3.5
+Slovakia,Sweden,1.75
+Sweden,Slovakia,1.75
+Uruguay,Peru,4.0
+Tahiti,New Zealand,4.0
+Tajikistan,Syria,3.5
+Philippines,Thailand,3.5
+Panama,United States,1.0
+Vietnam,India,0.5
+India,Vietnam,0.5
+Central African Republic,Morocco,2.5
+Ethiopia,Guinea,2.5
+Antigua and Barbuda,Dominican Republic,3.5
+Dominica,Bermuda,3.5
+United States Virgin Islands,Bahamas,3.5
+Anguilla,Turks and Caicos Islands,3.5
+British Virgin Islands,Cayman Islands,3.5
+Scotland,Croatia,3.5
+Poland,Portugal,3.5
+Switzerland,Serbia,3.5
+Denmark,Spain,3.5
+Lithuania,Kosovo,3.5
+Cyprus,Romania,3.5
+Bulgaria,Luxembourg,1.75
+Luxembourg,Bulgaria,1.75
+Belarus,Northern Ireland,1.75
+Northern Ireland,Belarus,1.75
+Samoa,Vanuatu,4.0
+San Marino,Andorra,1.0
+Myanmar,Sri Lanka,0.5
+Sri Lanka,Myanmar,0.5
+Burundi,Burkina Faso,2.5
+Montserrat,Bonaire,3.5
+El Salvador,Saint Vincent and the Grenadines,3.5
+Finland,England,3.5
+Republic of Ireland,Greece,3.5
+Kazakhstan,Slovenia,3.5
+Norway,Austria,3.5
+Faroe Islands,Latvia,1.75
+Latvia,Faroe Islands,1.75
+Armenia,North Macedonia,3.5
+Liechtenstein,Gibraltar,1.75
+Gibraltar,Liechtenstein,1.75
+Moldova,Malta,3.5
+Malaysia,New Zealand,1.0
+Madagascar,Gambia,2.5
+Liberia,Equatorial Guinea,2.5
+Togo,Algeria,2.5
+Eswatini,Mozambique,2.5
+Kenya,Cameroon,2.5
+Namibia,Zimbabwe,2.5
+French Guiana,Nicaragua,3.5
+Jamaica,Honduras,1.75
+Honduras,Jamaica,1.75
+Cuba,Trinidad and Tobago,3.5
+Grenada,Curaçao,3.5
+Saint Lucia,Saint Martin,3.5
+Sint Maarten,Puerto Rico,3.5
+Aruba,Haiti,3.5
+Belgium,France,3.5
+Israel,Italy,3.5
+Bosnia and Herzegovina,Hungary,3.5
+Netherlands,Germany,3.5
+Georgia,Albania,3.5
+Ukraine,Czech Republic,1.75
+Czech Republic,Ukraine,1.75
+Iceland,Turkey,3.5
+Montenegro,Wales,3.5
+Azerbaijan,Slovakia,3.5
+Estonia,Sweden,3.5
+Tajikistan,Philippines,3.5
+Syria,Thailand,3.5
+Panama,Canada,1.0
+Cambodia,Hong Kong,1.0
+United States,Mexico,1.0
+Comoros,Tunisia,1.25
+Tunisia,Comoros,1.25
+Lesotho,Gabon,2.5
+Central African Republic,Morocco,2.5
+Mauritania,Egypt,2.5
+Cape Verde,Botswana,2.5
+Benin,Rwanda,2.5
+Ghana,Sudan,2.5
+Niger,Angola,2.5
+Chad,Zambia,2.5
+Ivory Coast,Sierra Leone,2.5
+Tanzania,DR Congo,2.5
+Ethiopia,Guinea,2.5
+Guinea-Bissau,Mali,1.25
+Mali,Guinea-Bissau,1.25
+South Sudan,Uganda,2.5
+Congo,South Africa,1.25
+South Africa,Congo,1.25
+Malawi,Senegal,2.5
+Guatemala,Costa Rica,3.5
+Guadeloupe,Martinique,1.75
+Martinique,Guadeloupe,1.75
+Guyana,Suriname,3.5
+Antigua and Barbuda,Dominican Republic,3.5
+Dominica,Bermuda,3.5
+Bahamas,Barbados,3.5
+Turks and Caicos Islands,Belize,3.5
+Saint Kitts and Nevis,Cayman Islands,1.75
+Cayman Islands,Saint Kitts and Nevis,1.75
+Scotland,Portugal,1.75
+Portugal,Scotland,1.75
+Poland,Croatia,1.75
+Croatia,Poland,1.75
+Serbia,Spain,3.5
+Switzerland,Denmark,1.75
+Denmark,Switzerland,1.75
+Cyprus,Kosovo,3.5
+Lithuania,Romania,3.5
+Bulgaria,Northern Ireland,3.5
+Belarus,Luxembourg,1.75
+Luxembourg,Belarus,1.75
+Chile,Colombia,4.0
+Venezuela,Paraguay,4.0
+Uruguay,Ecuador,2.0
+Ecuador,Uruguay,2.0
+Bolivia,Argentina,4.0
+Peru,Brazil,4.0
+United Arab Emirates,Uzbekistan,4.0
+Qatar,Iran,4.0
+North Korea,Kyrgyzstan,4.0
+Oman,Jordan,4.0
+Palestine,Kuwait,2.0
+Kuwait,Palestine,2.0
+Iraq,South Korea,4.0
+Japan,Australia,2.0
+Australia,Japan,2.0
+Indonesia,China,4.0
+Saudi Arabia,Bahrain,2.0
+Bahrain,Saudi Arabia,2.0
+Timor-Leste,Brunei,1.25
+Brunei,Timor-Leste,1.25
+Bangladesh,Maldives,1.0
+Nepal,Tajikistan,1.0
+Togo,Liberia,2.5
+Chad,Sierra Leone,1.25
+Sierra Leone,Chad,1.25
+Namibia,Cameroon,1.25
+Cameroon,Namibia,1.25
+Belgium,Italy,3.5
+France,Israel,1.75
+Israel,France,1.75
+Finland,Republic of Ireland,3.5
+Greece,England,3.5
+Kazakhstan,Austria,3.5
+Slovenia,Norway,3.5
+Latvia,North Macedonia,3.5
+Armenia,Faroe Islands,3.5
+Montserrat,Saint Vincent and the Grenadines,3.5
+Bonaire,El Salvador,3.5
+French Guiana,Belize,3.5
+Cuba,Saint Kitts and Nevis,3.5
+Costa Rica,Panama,3.5
+Jamaica,United States,3.5
+Philippines,Hong Kong,1.0
+Laos,Malaysia,1.0
+Liechtenstein,Malta,1.0
+Myanmar,Singapore,1.0
+Thailand,Lebanon,0.5
+Lebanon,Thailand,0.5
+Venezuela,Brazil,2.0
+Brazil,Venezuela,2.0
+Bolivia,Ecuador,4.0
+Argentina,Paraguay,4.0
+Solomon Islands,New Caledonia,4.0
+Papua New Guinea,Fiji,2.0
+Fiji,Papua New Guinea,2.0
+North Korea,Iran,4.0
+Uzbekistan,Qatar,4.0
+Kyrgyzstan,United Arab Emirates,4.0
+Kuwait,South Korea,4.0
+Iraq,Jordan,2.0
+Jordan,Iraq,2.0
+Palestine,Oman,4.0
+Bahrain,China,4.0
+Australia,Saudi Arabia,2.0
+Saudi Arabia,Australia,2.0
+Madagascar,Tunisia,2.5
+Central African Republic,Lesotho,2.5
+Rwanda,Libya,2.5
+Benin,Nigeria,1.25
+Nigeria,Benin,1.25
+Equatorial Guinea,Algeria,1.25
+Algeria,Equatorial Guinea,1.25
+Sudan,Niger,2.5
+Congo,South Sudan,2.5
+Burundi,Malawi,1.25
+Malawi,Burundi,1.25
+Burkina Faso,Senegal,2.5
+Poland,Portugal,3.5
+Croatia,Scotland,3.5
+Denmark,Spain,3.5
+Switzerland,Serbia,1.75
+Serbia,Switzerland,1.75
+Lithuania,Cyprus,3.5
+Romania,Kosovo,1.75
+Kosovo,Romania,1.75
+Belarus,Northern Ireland,3.5
+Luxembourg,Bulgaria,3.5
+San Marino,Gibraltar,1.75
+Gibraltar,San Marino,1.75
+Saint Lucia,Grenada,3.5
+Saint Martin,Curaçao,3.5
+Aruba,Puerto Rico,3.5
+Sint Maarten,Haiti,3.5
+Barbados,Guyana,3.5
+Cayman Islands,Guadeloupe,3.5
+Mexico,Honduras,3.5
+Suriname,Canada,3.5
+Peru,Chile,2.0
+Chile,Peru,2.0
+Colombia,Uruguay,4.0
+Samoa,Tahiti,4.0
+Vanuatu,New Zealand,4.0
+Indonesia,Japan,4.0
+Brunei,Russia,1.0
+Gambia,Comoros,2.5
+Gabon,Morocco,2.5
+Botswana,Mauritania,1.25
+Mauritania,Botswana,1.25
+Cape Verde,Egypt,1.25
+Egypt,Cape Verde,1.25
+Angola,Ghana,1.25
+Ghana,Angola,1.25
+Ivory Coast,Zambia,2.5
+Eswatini,Guinea-Bissau,1.25
+Guinea-Bissau,Eswatini,1.25
+Mozambique,Mali,2.5
+Zimbabwe,Kenya,1.25
+Kenya,Zimbabwe,1.25
+Uganda,South Africa,2.5
+Bosnia and Herzegovina,Germany,3.5
+Hungary,Netherlands,3.5
+Albania,Czech Republic,1.75
+Czech Republic,Albania,1.75
+Georgia,Ukraine,1.75
+Ukraine,Georgia,1.75
+Montenegro,Iceland,3.5
+Turkey,Wales,1.75
+Wales,Turkey,1.75
+Azerbaijan,Estonia,1.75
+Estonia,Azerbaijan,1.75
+Slovakia,Sweden,3.5
+Andorra,Moldova,3.5
+Antigua and Barbuda,Bermuda,3.5
+Dominica,Dominican Republic,3.5
+Maldives,Bangladesh,1.0
+Afghanistan,Nepal,1.0
+Yemen,Sri Lanka,1.0
+Ethiopia,Tanzania,2.5
+DR Congo,Guinea,2.5
+Belgium,Israel,3.5
+Italy,France,3.5
+Republic of Ireland,England,3.5
+Finland,Greece,3.5
+Kazakhstan,Norway,3.5
+Austria,Slovenia,1.75
+Slovenia,Austria,1.75
+Faroe Islands,North Macedonia,3.5
+Latvia,Armenia,3.5
+Bonaire,Saint Vincent and the Grenadines,3.5
+Montserrat,El Salvador,3.5
+Thailand,Laos,0.5
+Laos,Thailand,0.5
+Fiji,New Caledonia,2.0
+New Caledonia,Fiji,2.0
+Papua New Guinea,Solomon Islands,4.0
+Liberia,Algeria,2.5
+Equatorial Guinea,Togo,2.5
+Croatia,Portugal,1.75
+Portugal,Croatia,1.75
+Poland,Scotland,3.5
+Serbia,Denmark,1.75
+Denmark,Serbia,1.75
+Switzerland,Spain,3.5
+Lithuania,Kosovo,3.5
+Cyprus,Romania,3.5
+Luxembourg,Northern Ireland,1.75
+Northern Ireland,Luxembourg,1.75
+Bulgaria,Belarus,1.75
+Belarus,Bulgaria,1.75
+Liechtenstein,San Marino,3.5
+Grenada,Saint Martin,3.5
+Saint Lucia,Curaçao,3.5
+Aruba,Sint Maarten,3.5
+Puerto Rico,Haiti,3.5
+Saint Kitts and Nevis,Cuba,3.5
+Panama,Costa Rica,1.75
+Costa Rica,Panama,1.75
+Jamaica,United States,3.5
+India,Malaysia,0.5
+Malaysia,India,0.5
+Singapore,Taiwan,1.0
+Vanuatu,Tahiti,4.0
+Samoa,New Zealand,4.0
+Tunisia,Gambia,2.5
+Madagascar,Comoros,2.5
+Lesotho,Morocco,2.5
+Central African Republic,Gabon,2.5
+Nigeria,Rwanda,2.5
+Libya,Benin,1.25
+Benin,Libya,1.25
+Ghana,Niger,2.5
+Sudan,Angola,1.25
+Angola,Sudan,1.25
+Burkina Faso,Malawi,2.5
+Bosnia and Herzegovina,Netherlands,1.75
+Netherlands,Bosnia and Herzegovina,1.75
+Hungary,Germany,1.75
+Germany,Hungary,1.75
+Albania,Ukraine,3.5
+Georgia,Czech Republic,3.5
+Iceland,Wales,3.5
+Turkey,Montenegro,3.5
+Estonia,Slovakia,3.5
+Azerbaijan,Sweden,3.5
+Malta,Andorra,1.75
+Andorra,Malta,1.75
+Antigua and Barbuda,Dominica,1.75
+Dominica,Antigua and Barbuda,1.75
+Bermuda,Dominican Republic,3.5
+French Guiana,Belize,1.75
+Belize,French Guiana,1.75
+Cayman Islands,Guadeloupe,3.5
+Barbados,Guyana,3.5
+Suriname,Canada,3.5
+Honduras,Mexico,3.5
+Gibraltar,Moldova,0.5
+Moldova,Gibraltar,0.5
+Mauritius,Hong Kong,1.0
+Myanmar,Lebanon,1.0
+Syria,Russia,1.0
+Sri Lanka,Yemen,1.0
+Afghanistan,Tajikistan,1.0
+Bolivia,Paraguay,2.0
+Paraguay,Bolivia,2.0
+Colombia,Ecuador,4.0
+Peru,Argentina,4.0
+Venezuela,Chile,4.0
+Brazil,Uruguay,2.0
+Uruguay,Brazil,2.0
+North Korea,Uzbekistan,4.0
+Kyrgyzstan,Iran,4.0
+Qatar,United Arab Emirates,4.0
+Palestine,South Korea,2.0
+South Korea,Palestine,2.0
+Oman,Iraq,4.0
+Kuwait,Jordan,2.0
+Jordan,Kuwait,2.0
+Bahrain,Australia,2.0
+Australia,Bahrain,2.0
+Saudi Arabia,Indonesia,4.0
+China,Japan,4.0
+Egypt,Botswana,1.25
+Botswana,Egypt,1.25
+Cape Verde,Mauritania,2.5
+Chad,Ivory Coast,2.5
+Sierra Leone,Zambia,2.5
+DR Congo,Ethiopia,2.5
+Guinea,Tanzania,2.5
+Eswatini,Mali,2.5
+Guinea-Bissau,Mozambique,2.5
+Zimbabwe,Cameroon,2.5
+Kenya,Namibia,1.25
+Namibia,Kenya,1.25
+South Sudan,South Africa,2.5
+Congo,Uganda,2.5
+Burundi,Senegal,2.5
+Cambodia,Malaysia,1.75
+Malaysia,Cambodia,1.75
+Timor-Leste,Thailand,3.5
+Mongolia,Hong Kong,2.5
+Myanmar,Indonesia,3.5
+Laos,Vietnam,3.5
+Vanuatu,Solomon Islands,3.5
+Cambodia,Singapore,3.5
+Timor-Leste,Malaysia,3.5
+Mongolia,Taiwan,2.5
+Philippines,Myanmar,1.75
+Myanmar,Philippines,1.75
+Indonesia,Laos,1.75
+Laos,Indonesia,1.75
+Fiji,Vanuatu,1.75
+Vanuatu,Fiji,1.75
+Timor-Leste,Singapore,3.5
+Malaysia,Thailand,3.5
+Macau,Guam,2.5
+Taiwan,Hong Kong,2.5
+Laos,Philippines,1.75
+Philippines,Laos,1.75
+Indonesia,Vietnam,3.5
+Papua New Guinea,Fiji,1.75
+Fiji,Papua New Guinea,1.75
+Timor-Leste,Cambodia,3.5
+Singapore,Thailand,3.5
+Guam,Hong Kong,2.5
+Laos,Myanmar,3.5
+Philippines,Vietnam,1.75
+Vietnam,Philippines,1.75
+Solomon Islands,Papua New Guinea,3.5
+Cambodia,Thailand,3.5
+Malaysia,Singapore,1.75
+Singapore,Malaysia,1.75
+Myanmar,Vietnam,3.5
+Indonesia,Philippines,3.5
+Kuwait,Oman,1.75
+Oman,Kuwait,1.75
+Qatar,United Arab Emirates,1.75
+United Arab Emirates,Qatar,1.75
+Vanuatu,Papua New Guinea,3.5
+Solomon Islands,Fiji,3.5
+Yemen,Iraq,3.5
+Saudi Arabia,Bahrain,3.5
+Qatar,Oman,3.5
+United Arab Emirates,Kuwait,3.5
+Yemen,Saudi Arabia,3.5
+Iraq,Bahrain,3.5
+Singapore,Vietnam,3.5
+Thailand,Philippines,3.5
+Kuwait,Qatar,1.75
+Qatar,Kuwait,1.75
+United Arab Emirates,Oman,1.75
+Oman,United Arab Emirates,1.75
+Iraq,Saudi Arabia,3.5
+Bahrain,Yemen,3.5
+Singapore,Vietnam,3.5
+Philippines,Thailand,3.5
+Saudi Arabia,Oman,3.5
+Kuwait,Bahrain,3.5
+Thailand,Vietnam,3.5
+Tanzania,Zanzibar,3.5
+Oman,Bahrain,3.5
+Burkina Faso,Kenya,1.75
+Kenya,Burkina Faso,1.75
+Thailand,Vietnam,3.5
+Zanzibar,Burkina Faso,3.5
+Tanzania,Kenya,3.5
+Tanzania,Burkina Faso,3.5
+Kenya,Zanzibar,3.5
+Burkina Faso,Zanzibar,3.5
+Venezuela,United States,1.0
+Costa Rica,United States,1.0
+Uzbekistan,Jordan,0.5
+Jordan,Uzbekistan,0.5
+Trinidad and Tobago,Jamaica,1.0
+Panama,Chile,1.0
+Jamaica,Trinidad and Tobago,0.5
+Trinidad and Tobago,Jamaica,0.5
+Oman,Sudan,0.5
+Sudan,Oman,0.5
+Saint Vincent and the Grenadines,Grenada,0.5
+Grenada,Saint Vincent and the Grenadines,0.5
+Oman,Sudan,0.5
+Sudan,Oman,0.5
+Jordan,North Korea,0.5
+North Korea,Jordan,0.5
+Honduras,Guatemala,1.0
+Macau,Hong Kong,1.0
+Maldives,India,1.0
+Cambodia,Vietnam,1.0
+Eswatini,Cameroon,2.0
+Cameroon,Eswatini,2.0
+Liberia,Tunisia,4.0
+Central African Republic,Madagascar,4.0
+Curaçao,Kazakhstan,1.0
+Grenada,Russia,1.0
+Canada,Mexico,3.5
+United States,Panama,3.5
+France,Croatia,3.5
+Portugal,Denmark,3.5
+Italy,Germany,3.5
+Netherlands,Spain,1.75
+Spain,Netherlands,1.75
+Austria,Serbia,1.75
+Serbia,Austria,1.75
+Greece,Scotland,3.5
+Hungary,Turkey,3.5
+Belgium,Ukraine,3.5
+Armenia,Georgia,3.5
+Bulgaria,Republic of Ireland,3.5
+Iceland,Kosovo,3.5
+Slovakia,Slovenia,1.75
+Slovenia,Slovakia,1.75
+Laos,Sri Lanka,1.0
+Tajikistan,Belarus,1.0
+Chile,Paraguay,4.0
+Bolivia,Peru,4.0
+Colombia,Brazil,4.0
+United Arab Emirates,Iran,4.0
+Kyrgyzstan,Uzbekistan,4.0
+North Korea,Qatar,4.0
+South Korea,Oman,2.0
+Oman,South Korea,2.0
+Iraq,Kuwait,2.0
+Kuwait,Iraq,2.0
+Palestine,Jordan,4.0
+Bahrain,Japan,4.0
+Indonesia,Australia,4.0
+China,Saudi Arabia,4.0
+Guinea-Bissau,Sierra Leone,4.0
+Zimbabwe,Benin,2.0
+Benin,Zimbabwe,2.0
+Mauritius,Cape Verde,4.0
+Libya,Angola,2.0
+Angola,Libya,2.0
+Gambia,Kenya,2.0
+Kenya,Gambia,2.0
+Seychelles,Gabon,4.0
+Uganda,Mozambique,4.0
+Malawi,Namibia,4.0
+Comoros,Mali,4.0
+Timor-Leste,Lebanon,1.0
+Belize,Costa Rica,2.5
+Guatemala,Guyana,2.5
+Bermuda,Honduras,2.5
+Saint Vincent and the Grenadines,Jamaica,1.25
+Jamaica,Saint Vincent and the Grenadines,1.25
+Martinique,Suriname,2.5
+Nicaragua,Guadeloupe,2.5
+Cuba,Trinidad and Tobago,2.5
+Northern Ireland,Switzerland,0.5
+Switzerland,Northern Ireland,0.5
+Puerto Rico,Dominican Republic,0.5
+Dominican Republic,Puerto Rico,0.5
+Singapore,Nepal,1.0
+Afghanistan,Thailand,1.0
+Venezuela,Ecuador,4.0
+Uruguay,Argentina,4.0
+Tahiti,New Caledonia,4.0
+Fiji,New Zealand,4.0
+Djibouti,Burkina Faso,4.0
+Ethiopia,Egypt,4.0
+South Sudan,DR Congo,4.0
+Rwanda,Nigeria,4.0
+South Africa,Lesotho,4.0
+Niger,Morocco,4.0
+Burundi,Ivory Coast,4.0
+Botswana,Algeria,4.0
+Guinea,Somalia,2.0
+Somalia,Guinea,2.0
+São Tomé and Príncipe,Equatorial Guinea,4.0
+Chad,Ghana,4.0
+Malta,Finland,4.0
+Lithuania,Poland,4.0
+San Marino,Cyprus,4.0
+Romania,Bosnia and Herzegovina,4.0
+Albania,England,4.0
+Andorra,Latvia,4.0
+Azerbaijan,Haiti,1.0
+Sweden,Luxembourg,1.0
+Togo,Mauritania,2.0
+Mauritania,Togo,2.0
+Sudan,Senegal,2.0
+Senegal,Sudan,2.0
+Moldova,Norway,4.0
+Estonia,Israel,4.0
+Liechtenstein,North Macedonia,4.0
+Kazakhstan,Wales,4.0
+Gibraltar,Montenegro,4.0
+Faroe Islands,Czech Republic,4.0
+United States,Canada,3.5
+Panama,Mexico,3.5
+Croatia,France,3.5
+Germany,Italy,1.75
+Italy,Germany,1.75
+Denmark,Portugal,3.5
+Spain,Netherlands,1.75
+Netherlands,Spain,1.75
+Ukraine,Belgium,3.5
+Hungary,Turkey,3.5
+Scotland,Greece,3.5
+Austria,Serbia,3.5
+Armenia,Georgia,3.5
+Iceland,Kosovo,3.5
+Bulgaria,Republic of Ireland,3.5
+Slovakia,Slovenia,3.5
+Eswatini,Mauritius,2.0
+Mauritius,Eswatini,2.0
+Kenya,Gabon,4.0
+New Caledonia,New Zealand,4.0
+Guinea-Bissau,Burkina Faso,4.0
+Djibouti,Ethiopia,4.0
+Gambia,Ivory Coast,4.0
+Namibia,Equatorial Guinea,2.0
+Equatorial Guinea,Namibia,2.0
+São Tomé and Príncipe,Liberia,4.0
+Malawi,Tunisia,4.0
+Central African Republic,Mali,2.0
+Mali,Central African Republic,2.0
+Madagascar,Ghana,4.0
+Lithuania,Finland,2.0
+Finland,Lithuania,2.0
+Malta,Poland,4.0
+Cyprus,Bosnia and Herzegovina,4.0
+San Marino,Romania,4.0
+Latvia,England,4.0
+Andorra,Albania,4.0
+Timor-Leste,Tajikistan,2.5
+Maldives,Philippines,2.5
+Bhutan,Yemen,1.25
+Yemen,Bhutan,1.25
+Brunei,Lebanon,2.5
+India,Bangladesh,1.25
+Bangladesh,India,1.25
+Singapore,Hong Kong,1.25
+Hong Kong,Singapore,1.25
+Taiwan,Turkmenistan,2.5
+Sri Lanka,Thailand,2.5
+Afghanistan,Myanmar,2.5
+Pakistan,Syria,2.5
+Laos,Vietnam,2.5
+Nepal,Malaysia,2.5
+Belize,Costa Rica,2.5
+Guyana,Guatemala,2.5
+Bermuda,Honduras,2.5
+Saint Vincent and the Grenadines,Jamaica,2.5
+Martinique,Suriname,2.5
+Nicaragua,Guadeloupe,2.5
+Cuba,Trinidad and Tobago,2.5
+Azerbaijan,Belarus,1.0
+Zambia,Russia,1.0
+Cambodia,Aruba,1.0
+Puerto Rico,Dominican Republic,1.0
+Bonaire,Niger,1.0
+Northern Ireland,Sweden,1.0
+Luxembourg,Switzerland,1.0
+Bolivia,Uruguay,2.0
+Uruguay,Bolivia,2.0
+Colombia,Paraguay,2.0
+Paraguay,Colombia,2.0
+Peru,Venezuela,4.0
+Brazil,Argentina,4.0
+Chile,Ecuador,2.0
+Ecuador,Chile,2.0
+Iran,Uzbekistan,2.0
+Uzbekistan,Iran,2.0
+Qatar,Kyrgyzstan,4.0
+North Korea,United Arab Emirates,4.0
+South Korea,Jordan,2.0
+Jordan,South Korea,2.0
+Kuwait,Oman,4.0
+Iraq,Palestine,4.0
+China,Australia,4.0
+Japan,Saudi Arabia,2.0
+Saudi Arabia,Japan,2.0
+Bahrain,Indonesia,4.0
+Sierra Leone,Egypt,4.0
+Mauritania,DR Congo,4.0
+Togo,Senegal,4.0
+Sudan,South Sudan,2.0
+South Sudan,Sudan,2.0
+Benin,South Africa,4.0
+Nigeria,Zimbabwe,2.0
+Zimbabwe,Nigeria,2.0
+Rwanda,Lesotho,2.0
+Lesotho,Rwanda,2.0
+Angola,Cape Verde,4.0
+Libya,Cameroon,4.0
+Tanzania,Morocco,4.0
+Seychelles,Burundi,4.0
+Guinea,Uganda,4.0
+Somalia,Botswana,4.0
+Mozambique,Algeria,4.0
+Chad,Comoros,4.0
+Moldova,Estonia,4.0
+Israel,Norway,4.0
+Liechtenstein,Kazakhstan,4.0
+North Macedonia,Wales,2.0
+Wales,North Macedonia,2.0
+Gibraltar,Czech Republic,4.0
+Faroe Islands,Montenegro,4.0
+Dominica,Barbados,0.5
+Barbados,Dominica,0.5
+Dominica,Barbados,0.5
+Barbados,Dominica,0.5
+Saint Kitts and Nevis,Saint Vincent and the Grenadines,1.0
+Anguilla,Saint Kitts and Nevis,1.0
+Saint Kitts and Nevis,Saint Vincent and the Grenadines,1.0
+Trinidad and Tobago,Jamaica,3.5
+Ghana,Nigeria,3.5
+Lebanon,Oman,1.0
+Malaysia,Cape Verde,0.5
+Cape Verde,Malaysia,0.5
+Saint Vincent and the Grenadines,British Virgin Islands,0.5
+British Virgin Islands,Saint Vincent and the Grenadines,0.5
+Jordan,Saudi Arabia,1.0
+Trinidad and Tobago,Ghana,3.5
+Jamaica,Nigeria,1.75
+Nigeria,Jamaica,1.75
+Anguilla,Grenada,1.0
+El Salvador,Guatemala,0.5
+Guatemala,El Salvador,0.5
+Puerto Rico,Nicaragua,0.5
+Nicaragua,Puerto Rico,0.5
+Burkina Faso,Tunisia,1.0
+Malaysia,Cape Verde,1.0
+Germany,Portugal,3.5
+India,Thailand,1.0
+Bhutan,Bangladesh,1.0
+Cayman Islands,Bermuda,4.0
+Bahamas,Grenada,4.0
+Barbados,Aruba,2.0
+Aruba,Barbados,2.0
+Belize,Montserrat,4.0
+British Virgin Islands,Dominica,4.0
+Anguilla,Saint Vincent and the Grenadines,4.0
+France,Spain,3.5
+Rwanda,Algeria,1.0
+Kazakhstan,Belarus,1.0
+Cambodia,Tajikistan,1.0
+Mali,DR Congo,1.0
+Faroe Islands,Georgia,1.0
+Hong Kong,Nepal,0.5
+Nepal,Hong Kong,0.5
+Maldives,Singapore,1.0
+Ecuador,Brazil,2.0
+Brazil,Ecuador,2.0
+Uruguay,Paraguay,4.0
+Chile,Argentina,4.0
+United Arab Emirates,Uzbekistan,2.0
+Uzbekistan,United Arab Emirates,2.0
+North Korea,Kyrgyzstan,2.0
+Kyrgyzstan,North Korea,2.0
+Iran,Qatar,4.0
+Oman,Jordan,4.0
+Iraq,South Korea,4.0
+Kuwait,Palestine,4.0
+Bahrain,Saudi Arabia,4.0
+Japan,Australia,4.0
+China,Indonesia,4.0
+Brunei,Sri Lanka,1.0
+Bulgaria,Cyprus,0.5
+Cyprus,Bulgaria,0.5
+Guinea-Bissau,Burundi,1.0
+Mauritania,Central African Republic,1.0
+Equatorial Guinea,Gambia,1.0
+Hungary,Sweden,1.0
+Armenia,Kosovo,1.0
+Luxembourg,Slovenia,1.0
+Tunisia,Morocco,1.0
+Gabon,Niger,1.0
+Moldova,Poland,1.0
+Republic of Ireland,Senegal,0.5
+Senegal,Republic of Ireland,0.5
+Scotland,Iceland,1.0
+South Africa,Tanzania,0.5
+Tanzania,South Africa,0.5
+Uganda,Cameroon,1.0
+Zimbabwe,Burkina Faso,1.0
+Russia,Nigeria,0.5
+Nigeria,Russia,0.5
+Colombia,Peru,2.0
+Peru,Colombia,2.0
+Bolivia,Venezuela,4.0
+Italy,Norway,4.0
+Estonia,Israel,4.0
+Liechtenstein,Wales,4.0
+North Macedonia,Belgium,2.0
+Belgium,North Macedonia,2.0
+Montenegro,Czech Republic,4.0
+Gibraltar,Croatia,4.0
+Antigua and Barbuda,Cuba,4.0
+Saint Kitts and Nevis,Trinidad and Tobago,4.0
+Saint Lucia,Curaçao,4.0
+Guyana,Nicaragua,4.0
+Dominican Republic,Guatemala,4.0
+Puerto Rico,Suriname,4.0
+Northern Ireland,Denmark,1.0
+Slovakia,Greece,1.0
+Latvia,Azerbaijan,0.5
+Azerbaijan,Latvia,0.5
+Mexico,Switzerland,1.0
+United States,Turkey,1.0
+Malta,Lithuania,2.0
+Lithuania,Malta,2.0
+Finland,Netherlands,4.0
+San Marino,Bosnia and Herzegovina,4.0
+Romania,Austria,4.0
+Andorra,England,4.0
+Albania,Serbia,2.0
+Serbia,Albania,2.0
+Ukraine,Canada,2.0
+Ivory Coast,New Zealand,2.0
+Kenya,Chad,0.5
+Chad,Kenya,0.5
+Cayman Islands,Honduras,4.0
+Bahamas,Costa Rica,4.0
+Aruba,Haiti,4.0
+Belize,Panama,4.0
+British Virgin Islands,Jamaica,4.0
+Anguilla,El Salvador,4.0
+Germany,France,3.5
+Portugal,Spain,1.75
+Spain,Portugal,1.75
+Madagascar,DR Congo,1.0
+Georgia,Cape Verde,0.5
+Cape Verde,Georgia,0.5
+Rwanda,Algeria,1.0
+Equatorial Guinea,Cameroon,0.5
+Cameroon,Equatorial Guinea,0.5
+Guinea-Bissau,Gabon,1.0
+Comoros,Kosovo,1.0
+Liechtenstein,Scotland,1.0
+Montenegro,Armenia,0.5
+Armenia,Montenegro,0.5
+Benin,Morocco,1.0
+Uganda,Gambia,0.5
+Gambia,Uganda,0.5
+Moldova,Italy,4.0
+Estonia,Norway,4.0
+Kazakhstan,North Macedonia,4.0
+Wales,Belgium,4.0
+Gibraltar,Faroe Islands,4.0
+Czech Republic,Croatia,4.0
+Maldives,Timor-Leste,2.5
+Philippines,Tajikistan,1.25
+Tajikistan,Philippines,1.25
+Bhutan,Brunei,2.5
+Yemen,Lebanon,1.25
+Lebanon,Yemen,1.25
+Bangladesh,Singapore,2.5
+India,Hong Kong,2.5
+Taiwan,Sri Lanka,2.5
+Thailand,Turkmenistan,2.5
+Pakistan,Myanmar,2.5
+Afghanistan,Syria,2.5
+Nepal,Laos,2.5
+Vietnam,Malaysia,2.5
+Azerbaijan,Hungary,1.0
+Burundi,Mauritania,0.5
+Mauritania,Burundi,0.5
+Chad,Kenya,1.0
+Lithuania,Denmark,1.0
+England,Senegal,1.0
+Bulgaria,Greece,1.0
+Slovakia,Israel,1.0
+Luxembourg,Republic of Ireland,0.5
+Republic of Ireland,Luxembourg,0.5
+Turkey,Mexico,1.0
+Niger,Zimbabwe,0.5
+Zimbabwe,Niger,0.5
+Iceland,Northern Ireland,1.0
+Bosnia and Herzegovina,Slovenia,1.0
+Mozambique,South Africa,1.0
+Algeria,Sweden,1.0
+United States,Switzerland,1.0
+Chile,Bolivia,4.0
+Venezuela,Uruguay,4.0
+Peru,Ecuador,2.0
+Ecuador,Peru,2.0
+Argentina,Colombia,2.0
+Colombia,Argentina,2.0
+Paraguay,Brazil,4.0
+Qatar,Uzbekistan,4.0
+North Korea,Iran,4.0
+Kyrgyzstan,United Arab Emirates,2.0
+United Arab Emirates,Kyrgyzstan,2.0
+Kuwait,South Korea,4.0
+Jordan,Iraq,4.0
+Palestine,Oman,2.0
+Oman,Palestine,2.0
+Bahrain,China,4.0
+Indonesia,Japan,4.0
+Saudi Arabia,Australia,4.0
+Malta,Netherlands,4.0
+Poland,Finland,4.0
+San Marino,Austria,4.0
+Cyprus,Romania,4.0
+Andorra,Serbia,4.0
+Latvia,Albania,2.0
+Albania,Latvia,2.0
+New Zealand,Ukraine,2.0
+Canada,Ivory Coast,1.0
+Ivory Coast,Canada,1.0
+Belarus,Russia,1.0
+Cuba,Bermuda,4.0
+Antigua and Barbuda,Honduras,4.0
+Saint Kitts and Nevis,Grenada,4.0
+Trinidad and Tobago,Costa Rica,4.0
+Barbados,Saint Lucia,4.0
+Haiti,Curaçao,4.0
+Montserrat,Guyana,4.0
+Nicaragua,Panama,4.0
+Dominica,Dominican Republic,4.0
+Guatemala,Jamaica,4.0
+Saint Vincent and the Grenadines,Puerto Rico,4.0
+El Salvador,Suriname,2.0
+Suriname,El Salvador,2.0
+Dominican Republic,Mexico,3.5
+Suriname,Costa Rica,3.5
+Trinidad and Tobago,United States,3.5
+Haiti,Saudi Arabia,3.5
+Guadeloupe,Panama,3.5
+Jamaica,Guatemala,3.5
+Curaçao,El Salvador,1.75
+El Salvador,Curaçao,1.75
+Honduras,Canada,3.5
+Dominican Republic,Costa Rica,3.5
+Suriname,Mexico,3.5
+Trinidad and Tobago,Haiti,1.75
+Haiti,Trinidad and Tobago,1.75
+Saudi Arabia,United States,3.5
+Guadeloupe,Jamaica,3.5
+Guatemala,Panama,3.5
+Curaçao,Canada,1.75
+Canada,Curaçao,1.75
+El Salvador,Honduras,3.5
+Mexico,Costa Rica,1.75
+Costa Rica,Mexico,1.75
+Dominican Republic,Suriname,1.75
+Suriname,Dominican Republic,1.75
+Saudi Arabia,Trinidad and Tobago,1.75
+Trinidad and Tobago,Saudi Arabia,1.75
+Haiti,United States,3.5
+Curaçao,Honduras,3.5
+El Salvador,Canada,3.5
+Jamaica,Panama,3.5
+Guadeloupe,Guatemala,3.5
+Panama,Honduras,1.75
+Honduras,Panama,1.75
+Saudi Arabia,Mexico,3.5
+Canada,Guatemala,1.75
+Guatemala,Canada,1.75
+United States,Costa Rica,1.75
+Costa Rica,United States,1.75
+Tibet,Tamil Eelam,3.5
+Guatemala,United States,3.5
+Honduras,Mexico,3.5
+East Turkestan,Tamil Eelam,3.5
+Tibet,East Turkestan,3.5
+East Turkestan,Tamil Eelam,3.5
+United States,Mexico,3.5
+Hitra,Isle of Man,2.0
+Frøya,Orkney,2.0
+Gozo,Shetland,1.0
+Shetland,Gozo,1.0
+Hitra,Orkney,2.0
+Frøya,Isle of Man,2.0
+Gozo,Jersey,2.0
+Western Isles,Ynys Môn,2.0
+Orkney,Isle of Man,2.0
+Frøya,Hitra,2.0
+Jersey,Shetland,1.0
+Shetland,Jersey,1.0
+Frøya,Hitra,2.0
+Gozo,Western Isles,1.0
+Western Isles,Gozo,1.0
+Shetland,Orkney,2.0
+Isle of Man,Ynys Môn,2.0
+Jersey,Isle of Man,2.0
+United States Virgin Islands,Turks and Caicos Islands,1.75
+Turks and Caicos Islands,United States Virgin Islands,1.75
+Marshall Islands,United States Virgin Islands,3.5
+Marshall Islands,Turks and Caicos Islands,3.5
+Qatar,Lebanon,0.5
+Lebanon,Qatar,0.5
+Qatar,Bahrain,0.5
+Bahrain,Qatar,0.5
+Seychelles,Gabon,4.0
+Gibraltar,Albania,1.0
+Singapore,Malaysia,1.0
+Finland,Norway,1.0
+Russia,Jordan,0.5
+Jordan,Russia,0.5
+North Macedonia,Saudi Arabia,1.0
+Syria,United Arab Emirates,1.0
+Bolivia,Colombia,4.0
+Venezuela,Argentina,4.0
+Paraguay,Ecuador,2.0
+Ecuador,Paraguay,2.0
+Peru,Uruguay,4.0
+Chile,Brazil,4.0
+Guinea-Bissau,Sierra Leone,2.0
+Sierra Leone,Guinea-Bissau,2.0
+Angola,Libya,4.0
+Eswatini,Cameroon,4.0
+Mauritius,Cape Verde,4.0
+Botswana,Algeria,4.0
+São Tomé and Príncipe,Equatorial Guinea,4.0
+Liberia,Tunisia,4.0
+Chad,Ghana,2.0
+Ghana,Chad,2.0
+Central African Republic,Madagascar,4.0
+Comoros,Mali,4.0
+Luxembourg,Northern Ireland,4.0
+Germany,Slovakia,4.0
+Georgia,Turkey,4.0
+Bulgaria,Spain,4.0
+Lithuania,Malta,2.0
+Malta,Lithuania,2.0
+Netherlands,Poland,2.0
+Poland,Netherlands,2.0
+Kazakhstan,Wales,4.0
+Liechtenstein,Belgium,4.0
+Hong Kong,Iraq,3.5
+Fiji,Thailand,3.5
+Suriname,Panama,2.0
+Panama,Suriname,2.0
+Guatemala,El Salvador,4.0
+New Zealand,Australia,2.0
+Taiwan,Indonesia,1.0
+Romania,Canada,1.0
+Djibouti,Burkina Faso,4.0
+Ethiopia,Egypt,4.0
+South Sudan,DR Congo,4.0
+Togo,Mauritania,4.0
+Sudan,Senegal,4.0
+Zimbabwe,Benin,4.0
+Lesotho,South Africa,4.0
+Congo,Tanzania,2.0
+Tanzania,Congo,2.0
+Niger,Morocco,4.0
+Kenya,Gambia,4.0
+Burundi,Ivory Coast,4.0
+Somalia,Guinea,4.0
+Mozambique,Uganda,4.0
+Namibia,Malawi,4.0
+Slovenia,Sweden,2.0
+Sweden,Slovenia,2.0
+Kosovo,Switzerland,4.0
+Denmark,Scotland,2.0
+Scotland,Denmark,2.0
+Belarus,Greece,4.0
+Azerbaijan,Iceland,4.0
+Ukraine,France,4.0
+Estonia,Italy,4.0
+Moldova,Israel,4.0
+Faroe Islands,Croatia,4.0
+Montenegro,Czech Republic,4.0
+Bermuda,Jamaica,4.0
+Trinidad and Tobago,Curaçao,2.0
+Curaçao,Trinidad and Tobago,2.0
+Haiti,Honduras,2.0
+Honduras,Haiti,2.0
+Nicaragua,Costa Rica,2.0
+Costa Rica,Nicaragua,2.0
+Sri Lanka,Maldives,3.5
+Mexico,Japan,0.5
+Japan,Mexico,0.5
+Nepal,Bangladesh,0.5
+Bangladesh,Nepal,0.5
+United States,South Korea,1.0
+Rwanda,Nigeria,4.0
+Republic of Ireland,Hungary,2.0
+Hungary,Republic of Ireland,2.0
+Armenia,Portugal,4.0
+Cyprus,Austria,4.0
+San Marino,Bosnia and Herzegovina,4.0
+Latvia,Serbia,4.0
+Andorra,England,4.0
+Central African Republic,Comoros,4.0
+Northern Ireland,Germany,4.0
+Luxembourg,Slovakia,4.0
+Bulgaria,Georgia,4.0
+Turkey,Spain,4.0
+Lithuania,Netherlands,4.0
+Finland,Poland,4.0
+Liechtenstein,North Macedonia,4.0
+Kazakhstan,Belgium,4.0
+Qatar,Russia,1.0
+Fiji,Hong Kong,3.5
+Thailand,Iraq,3.5
+Czech Republic,Saudi Arabia,0.5
+Saudi Arabia,Czech Republic,0.5
+Indonesia,Lebanon,0.5
+Lebanon,Indonesia,0.5
+Palestine,Malaysia,1.0
+Syria,Kuwait,0.5
+Kuwait,Syria,0.5
+Bahrain,United Arab Emirates,1.0
+Djibouti,Guinea-Bissau,4.0
+Eswatini,Libya,4.0
+Zambia,Morocco,4.0
+Botswana,Mozambique,4.0
+Guinea,Algeria,2.0
+Algeria,Guinea,2.0
+Somalia,Uganda,4.0
+Equatorial Guinea,Tunisia,4.0
+Malawi,Liberia,2.0
+Liberia,Malawi,2.0
+Chad,Madagascar,4.0
+Mali,Ghana,4.0
+Sweden,Kosovo,4.0
+Slovenia,Switzerland,4.0
+Belarus,Scotland,4.0
+Greece,Denmark,4.0
+Israel,Italy,4.0
+Montenegro,Croatia,4.0
+Gibraltar,Faroe Islands,4.0
+El Salvador,Suriname,4.0
+Panama,Guatemala,2.0
+Guatemala,Panama,2.0
+Estonia,Andorra,0.5
+Andorra,Estonia,0.5
+Dominican Republic,Jordan,1.0
+San Marino,Malta,1.0
+Mexico,South Korea,0.5
+South Korea,Mexico,0.5
+New Zealand,Australia,2.0
+Singapore,Myanmar,0.5
+Myanmar,Singapore,0.5
+Sri Lanka,Maldives,0.5
+Maldives,Sri Lanka,0.5
+Japan,United States,1.0
+Wales,Canada,1.0
+Argentina,Ecuador,4.0
+Peru,Paraguay,4.0
+Brazil,Bolivia,4.0
+Venezuela,Colombia,4.0
+Chile,Uruguay,2.0
+Uruguay,Chile,2.0
+Ethiopia,Sierra Leone,4.0
+Burkina Faso,Egypt,2.0
+Egypt,Burkina Faso,2.0
+Sudan,Togo,4.0
+DR Congo,Senegal,4.0
+Mauritania,South Sudan,2.0
+South Sudan,Mauritania,2.0
+Zimbabwe,Rwanda,4.0
+South Africa,Nigeria,2.0
+Nigeria,South Africa,2.0
+Lesotho,Benin,4.0
+Cameroon,Cape Verde,4.0
+Mauritius,Angola,4.0
+Tanzania,Niger,4.0
+Seychelles,Kenya,4.0
+Gabon,Ivory Coast,2.0
+Ivory Coast,Gabon,2.0
+Burundi,Gambia,4.0
+São Tomé and Príncipe,Namibia,4.0
+Azerbaijan,Ukraine,2.0
+Ukraine,Azerbaijan,2.0
+Iceland,France,4.0
+Republic of Ireland,Armenia,4.0
+Hungary,Portugal,4.0
+Bosnia and Herzegovina,Austria,4.0
+Cyprus,Romania,2.0
+Romania,Cyprus,2.0
+Moldova,Norway,4.0
+Latvia,Albania,4.0
+Serbia,England,4.0
+Trinidad and Tobago,Jamaica,4.0
+Bermuda,Curaçao,4.0
+Costa Rica,Haiti,2.0
+Haiti,Costa Rica,2.0
+Nicaragua,Honduras,4.0
+Saint Martin,Saint Kitts and Nevis,1.0
+Saint Martin,Saint Kitts and Nevis,1.0
+Cuba,Saint Vincent and the Grenadines,1.0
+Qatar,Oman,2.0
+Oman,Qatar,2.0
+Indonesia,Saudi Arabia,4.0
+Guinea-Bissau,Ethiopia,4.0
+Sierra Leone,Burkina Faso,4.0
+Djibouti,Egypt,4.0
+Libya,Cape Verde,2.0
+Cape Verde,Libya,2.0
+Eswatini,Angola,2.0
+Angola,Eswatini,2.0
+Mauritius,Cameroon,4.0
+Congo,Niger,4.0
+Tanzania,Zambia,4.0
+Comoros,Madagascar,4.0
+Central African Republic,Ghana,4.0
+Chad,Mali,4.0
+Gibraltar,New Caledonia,1.0
+Cuba,Saint Vincent and the Grenadines,1.0
+Wales,England,1.0
+New Zealand,Poland,1.0
+Moldova,Romania,1.0
+Bahrain,Morocco,1.0
+British Virgin Islands,Grenada,1.0
+Burundi,Kenya,4.0
+Somalia,Algeria,4.0
+Botswana,Uganda,4.0
+Mozambique,Guinea,4.0
+Equatorial Guinea,Malawi,4.0
+Greece,Scotland,4.0
+Belarus,Denmark,4.0
+Malta,Netherlands,4.0
+Lithuania,Finland,4.0
+San Marino,Austria,4.0
+Cyprus,Bosnia and Herzegovina,2.0
+Bosnia and Herzegovina,Cyprus,2.0
+Montenegro,Faroe Islands,4.0
+Czech Republic,Croatia,2.0
+Croatia,Czech Republic,2.0
+Maldives,Tajikistan,2.5
+Timor-Leste,Philippines,2.5
+Brunei,Yemen,2.5
+Bhutan,Lebanon,2.5
+Singapore,India,1.25
+India,Singapore,1.25
+Bangladesh,Hong Kong,2.5
+Turkmenistan,Sri Lanka,2.5
+Taiwan,Thailand,2.5
+Pakistan,Afghanistan,1.25
+Afghanistan,Pakistan,1.25
+Myanmar,Syria,2.5
+Laos,Malaysia,2.5
+Nepal,Vietnam,2.5
+Namibia,Liberia,4.0
+Nicaragua,Haiti,4.0
+Honduras,Costa Rica,2.0
+Costa Rica,Honduras,2.0
+Venezuela,Argentina,1.0
+Peru,Chile,1.0
+Canada,Australia,1.0
+Iran,Russia,1.0
+Japan,Paraguay,1.75
+Paraguay,Japan,1.75
+Kuwait,Uzbekistan,1.0
+Jordan,Bolivia,1.0
+South Korea,Brazil,1.0
+Dominican Republic,Uruguay,1.0
+United States,Ecuador,0.5
+Ecuador,United States,0.5
+Togo,DR Congo,4.0
+South Sudan,Senegal,4.0
+Sudan,Mauritania,2.0
+Mauritania,Sudan,2.0
+Lesotho,Nigeria,4.0
+Rwanda,Benin,4.0
+South Africa,Zimbabwe,2.0
+Zimbabwe,South Africa,2.0
+Gambia,Gabon,4.0
+Seychelles,Ivory Coast,4.0
+São Tomé and Príncipe,Tunisia,4.0
+Slovakia,Northern Ireland,4.0
+Luxembourg,Germany,4.0
+Kosovo,Slovenia,2.0
+Slovenia,Kosovo,2.0
+Sweden,Switzerland,4.0
+Iceland,Ukraine,4.0
+Azerbaijan,France,4.0
+Liechtenstein,Kazakhstan,4.0
+Belgium,North Macedonia,2.0
+North Macedonia,Belgium,2.0
+Suriname,Guatemala,2.0
+Guatemala,Suriname,2.0
+El Salvador,Panama,4.0
+Bermuda,Trinidad and Tobago,4.0
+Jamaica,Curaçao,4.0
+Cuba,Grenada,1.0
+Mexico,Colombia,1.0
+Oman,United Arab Emirates,4.0
+Indonesia,Iraq,4.0
+Georgia,Spain,4.0
+Bulgaria,Turkey,4.0
+Armenia,Hungary,4.0
+Republic of Ireland,Portugal,4.0
+Israel,Norway,4.0
+Estonia,Italy,4.0
+Latvia,Andorra,2.0
+Andorra,Latvia,2.0
+Serbia,Albania,4.0
+Malta,Bosnia and Herzegovina,1.0
+Ethiopia,Burkina Faso,4.0
+Djibouti,Sierra Leone,4.0
+Guinea-Bissau,Egypt,4.0
+Zambia,Niger,4.0
+Chad,Central African Republic,4.0
+Comoros,Ghana,4.0
+Madagascar,Mali,4.0
+Belarus,Scotland,4.0
+Greece,Denmark,4.0
+Finland,Netherlands,4.0
+Lithuania,Poland,4.0
+San Marino,Cyprus,4.0
+Austria,Romania,4.0
+Czech Republic,Faroe Islands,4.0
+Gibraltar,Croatia,4.0
+Liechtenstein,Montenegro,1.0
+Uzbekistan,Uruguay,1.0
+South Sudan,Togo,2.0
+Togo,South Sudan,2.0
+Zimbabwe,Lesotho,4.0
+Eswatini,Cape Verde,4.0
+Cameroon,Angola,2.0
+Angola,Cameroon,2.0
+Mauritius,Libya,2.0
+Libya,Mauritius,2.0
+Equatorial Guinea,Liberia,2.0
+Liberia,Equatorial Guinea,2.0
+Malawi,São Tomé and Príncipe,4.0
+Namibia,Tunisia,4.0
+Northern Ireland,Germany,4.0
+Luxembourg,Slovakia,4.0
+Slovenia,Switzerland,2.0
+Switzerland,Slovenia,2.0
+Sweden,Kosovo,4.0
+Iceland,France,2.0
+France,Iceland,2.0
+Azerbaijan,Ukraine,4.0
+Wales,Belgium,4.0
+North Macedonia,Kazakhstan,2.0
+Kazakhstan,North Macedonia,2.0
+Haiti,Honduras,4.0
+Nicaragua,Costa Rica,4.0
+Jordan,Albania,1.0
+Brazil,Japan,3.5
+Tanzania,Iran,1.0
+Canada,Colombia,0.5
+Colombia,Canada,0.5
+Paraguay,South Korea,1.0
+Mexico,Ecuador,0.5
+Ecuador,Mexico,0.5
+Norway,New Zealand,0.5
+New Zealand,Norway,0.5
+Puerto Rico,Argentina,1.0
+Bolivia,Russia,1.0
+Australia,United States,1.0
+United Arab Emirates,Qatar,4.0
+Saudi Arabia,Iraq,2.0
+Iraq,Saudi Arabia,2.0
+Mauritania,Senegal,4.0
+Sudan,DR Congo,4.0
+Benin,Nigeria,4.0
+Rwanda,South Africa,4.0
+Congo,Morocco,4.0
+Seychelles,Gambia,4.0
+Kenya,Ivory Coast,4.0
+Burundi,Gabon,4.0
+Uganda,Algeria,4.0
+Guinea,Botswana,2.0
+Botswana,Guinea,2.0
+Somalia,Mozambique,4.0
+Bulgaria,Spain,4.0
+Georgia,Turkey,4.0
+Portugal,Hungary,2.0
+Hungary,Portugal,2.0
+Armenia,Republic of Ireland,4.0
+Estonia,Moldova,2.0
+Moldova,Estonia,2.0
+Israel,Italy,4.0
+Andorra,Serbia,4.0
+Latvia,England,4.0
+Maldives,Tajikistan,2.5
+Timor-Leste,Philippines,2.5
+Bhutan,Lebanon,2.5
+Brunei,Yemen,2.5
+India,Singapore,2.5
+Hong Kong,Bangladesh,1.25
+Bangladesh,Hong Kong,1.25
+Taiwan,Thailand,2.5
+Sri Lanka,Turkmenistan,2.5
+Myanmar,Syria,2.5
+Afghanistan,Pakistan,1.25
+Pakistan,Afghanistan,1.25
+Nepal,Vietnam,2.5
+Laos,Malaysia,2.5
+Panama,Suriname,2.0
+Suriname,Panama,2.0
+El Salvador,Guatemala,4.0
+Curaçao,Trinidad and Tobago,2.0
+Trinidad and Tobago,Curaçao,2.0
+Bermuda,Jamaica,4.0
+Tunisia,Mauritania,0.5
+Mauritania,Tunisia,0.5
+Russia,Peru,0.5
+Peru,Russia,0.5
+Saint Lucia,Cuba,2.0
+Saint Vincent and the Grenadines,Dominican Republic,2.0
+Dominica,Saint Martin,2.0
+Saint Kitts and Nevis,Sint Maarten,1.0
+Sint Maarten,Saint Kitts and Nevis,1.0
+Bonaire,Barbados,2.0
+Antigua and Barbuda,Aruba,1.0
+Aruba,Antigua and Barbuda,1.0
+Bahamas,Anguilla,2.0
+Cayman Islands,British Virgin Islands,2.0
+Zimbabwe,Algeria,1.0
+Bangladesh,Nepal,0.5
+Nepal,Bangladesh,0.5
+Canada,Ecuador,0.5
+Ecuador,Canada,0.5
+San Marino,Czech Republic,1.0
+Hong Kong,Cambodia,0.5
+Cambodia,Hong Kong,0.5
+Lithuania,Israel,0.5
+Israel,Lithuania,0.5
+North Macedonia,Latvia,0.5
+Latvia,North Macedonia,0.5
+Singapore,Thailand,1.0
+United Arab Emirates,Iraq,2.0
+Iraq,United Arab Emirates,2.0
+Cameroon,DR Congo,4.0
+Gabon,Nigeria,4.0
+Ukraine,France,4.0
+Azerbaijan,Iceland,4.0
+Portugal,Republic of Ireland,4.0
+Armenia,Hungary,4.0
+Estonia,Norway,4.0
+Moldova,Italy,4.0
+Serbia,England,4.0
+Andorra,Albania,4.0
+Iran,Cape Verde,1.75
+Cape Verde,Iran,1.75
+Solomon Islands,Papua New Guinea,3.5
+El Salvador,Suriname,4.0
+Guatemala,Panama,4.0
+Bermuda,Curaçao,4.0
+Trinidad and Tobago,Jamaica,2.0
+Jamaica,Trinidad and Tobago,2.0
+Costa Rica,Haiti,4.0
+Honduras,Nicaragua,4.0
+Angola,Argentina,1.0
+Australia,Venezuela,1.0
+Bolivia,South Korea,1.0
+Mozambique,Morocco,1.0
+Sudan,Oman,1.0
+Namibia,Comoros,1.0
+Chad,Uganda,1.0
+Niger,Burkina Faso,1.0
+Ghana,Japan,3.5
+Ivory Coast,Saudi Arabia,1.0
+Jordan,Tunisia,1.0
+Luxembourg,Germany,4.0
+Northern Ireland,Slovakia,4.0
+Finland,Malta,4.0
+Poland,Netherlands,2.0
+Netherlands,Poland,2.0
+Faroe Islands,Croatia,4.0
+Gibraltar,Montenegro,4.0
+Egypt,Uzbekistan,3.5
+Russia,Chile,1.0
+Mauritania,Libya,1.0
+Tanzania,Kuwait,1.0
+Lesotho,Malawi,0.5
+Malawi,Lesotho,0.5
+Liberia,Guinea,1.0
+Senegal,Brazil,1.0
+New Zealand,Colombia,1.0
+Mexico,Uruguay,0.5
+Uruguay,Mexico,0.5
+Zambia,South Africa,1.0
+Paraguay,United States,1.0
+Slovenia,Kosovo,4.0
+Sweden,Switzerland,4.0
+Denmark,Belarus,2.0
+Belarus,Denmark,2.0
+Scotland,Greece,4.0
+Bulgaria,Turkey,4.0
+Georgia,Spain,4.0
+Cyprus,Austria,4.0
+Romania,Bosnia and Herzegovina,4.0
+Liechtenstein,Wales,4.0
+Kazakhstan,Belgium,2.0
+Belgium,Kazakhstan,2.0
+Martinique,Cuba,2.0
+Saint Lucia,Saint Vincent and the Grenadines,2.0
+Dominica,Sint Maarten,2.0
+Saint Martin,Belize,2.0
+Barbados,Aruba,2.0
+Bonaire,Guyana,2.0
+Bahamas,British Virgin Islands,2.0
+Anguilla,Cayman Islands,2.0
+Palestine,Basque Country,1.0
+Nigeria,DR Congo,2.0
+DR Congo,Nigeria,2.0
+Iceland,Ukraine,4.0
+Azerbaijan,France,4.0
+Armenia,Portugal,4.0
+Hungary,Republic of Ireland,4.0
+Moldova,Israel,4.0
+Italy,Norway,4.0
+Albania,England,4.0
+Latvia,Serbia,4.0
+Namibia,Comoros,1.0
+Mozambique,Chad,0.5
+Chad,Mozambique,0.5
+Equatorial Guinea,Madagascar,1.0
+Andorra,Finland,1.0
+Qatar,Zimbabwe,1.0
+Bahrain,Somalia,1.0
+Luxembourg,Northern Ireland,4.0
+Slovakia,Germany,4.0
+Malta,Poland,4.0
+Lithuania,Netherlands,4.0
+Gibraltar,Czech Republic,4.0
+Montenegro,Croatia,4.0
+Cape Verde,Egypt,1.75
+Egypt,Cape Verde,1.75
+Fiji,Vanuatu,3.5
+Zambia,Angola,1.0
+Uganda,Morocco,1.0
+Oman,Ivory Coast,1.0
+Saudi Arabia,Algeria,1.0
+Guinea,Niger,0.5
+Niger,Guinea,0.5
+Kenya,Senegal,1.0
+Benin,Burkina Faso,1.0
+Bolivia,Japan,3.5
+Jordan,Mali,1.0
+Kuwait,Gambia,0.5
+Gambia,Kuwait,0.5
+Lesotho,Malawi,1.0
+Maldives,Philippines,2.5
+Timor-Leste,Tajikistan,2.5
+Bhutan,Yemen,2.5
+Brunei,Lebanon,2.5
+India,Bangladesh,2.5
+Hong Kong,Singapore,2.5
+Sri Lanka,Thailand,2.5
+Taiwan,Turkmenistan,2.5
+Pakistan,Syria,2.5
+Nepal,Malaysia,2.5
+Brazil,Tunisia,0.5
+Tunisia,Brazil,0.5
+Venezuela,Canada,1.0
+Peru,Chile,1.0
+Australia,Colombia,1.0
+Cyprus,Estonia,1.0
+New Zealand,Ecuador,1.0
+Kazakhstan,Faroe Islands,1.0
+Ghana,South Korea,1.0
+Mexico,Paraguay,1.0
+Uruguay,United States,1.0
+United Arab Emirates,Iraq,4.0
+Kosovo,Switzerland,2.0
+Switzerland,Kosovo,2.0
+Sweden,Slovenia,2.0
+Slovenia,Sweden,2.0
+Denmark,Scotland,4.0
+Belarus,Greece,2.0
+Greece,Belarus,2.0
+Spain,Turkey,2.0
+Turkey,Spain,2.0
+Georgia,Bulgaria,4.0
+Austria,Bosnia and Herzegovina,2.0
+Bosnia and Herzegovina,Austria,2.0
+San Marino,Romania,4.0
+North Macedonia,Wales,4.0
+Liechtenstein,Belgium,4.0
+Dominican Republic,Martinique,1.0
+Martinique,Dominican Republic,1.0
+Saint Kitts and Nevis,Belize,2.0
+Antigua and Barbuda,Guyana,2.0
+Iran,Uzbekistan,1.75
+Uzbekistan,Iran,1.75
+Suriname,Guatemala,4.0
+El Salvador,Panama,4.0
+Jamaica,Curaçao,2.0
+Curaçao,Jamaica,2.0
+Trinidad and Tobago,Bermuda,2.0
+Bermuda,Trinidad and Tobago,2.0
+Costa Rica,Honduras,2.0
+Honduras,Costa Rica,2.0
+Nicaragua,Haiti,4.0
+Laos,Vietnam,2.5
+Solomon Islands,Vanuatu,3.5
+Fiji,Papua New Guinea,3.5
+Papua New Guinea,Vanuatu,1.75
+Vanuatu,Papua New Guinea,1.75
+Mauritania,Kuwait,2.5
+South Sudan,Syria,2.5
+Palestine,Libya,1.25
+Libya,Palestine,1.25
+Oman,Somalia,1.25
+Somalia,Oman,1.25
+Djibouti,Bahrain,2.5
+Lebanon,Sudan,2.5
+Comoros,Yemen,1.25
+Yemen,Comoros,1.25
+Tunisia,Syria,3.5
+Qatar,Palestine,3.5
+Comoros,Morocco,3.5
+Oman,Saudi Arabia,3.5
+Egypt,Kuwait,1.75
+Kuwait,Egypt,1.75
+United Arab Emirates,Jordan,3.5
+Algeria,Sudan,1.75
+Sudan,Algeria,1.75
+Bahrain,Iraq,3.5
+Palestine,Tunisia,1.75
+Tunisia,Palestine,1.75
+Qatar,Syria,1.75
+Syria,Qatar,1.75
+Oman,Morocco,1.75
+Morocco,Oman,1.75
+Comoros,Saudi Arabia,3.5
+Kuwait,Jordan,3.5
+United Arab Emirates,Egypt,1.75
+Egypt,United Arab Emirates,1.75
+Bahrain,Algeria,3.5
+Sudan,Iraq,3.5
+Qatar,Tunisia,3.5
+Syria,Palestine,1.75
+Palestine,Syria,1.75
+Saudi Arabia,Morocco,3.5
+Comoros,Oman,3.5
+Egypt,Jordan,3.5
+Kuwait,United Arab Emirates,3.5
+Iraq,Algeria,3.5
+Sudan,Bahrain,3.5
+Syria,Morocco,3.5
+Palestine,Saudi Arabia,3.5
+Iraq,Jordan,3.5
+Algeria,United Arab Emirates,1.75
+United Arab Emirates,Algeria,1.75
+United Arab Emirates,Morocco,3.5
+Saudi Arabia,Jordan,3.5
+Jordan,Morocco,3.5
+Comoros,Morocco,3.5
+Mali,Zambia,1.75
+Zambia,Mali,1.75
+Angola,South Africa,3.5
+Zimbabwe,Egypt,3.5
+Tanzania,Nigeria,3.5
+Uganda,Tunisia,3.5
+Benin,DR Congo,3.5
+Botswana,Senegal,3.5
+Equatorial Guinea,Burkina Faso,3.5
+Sudan,Algeria,3.5
+Mozambique,Ivory Coast,3.5
+Gabon,Cameroon,3.5
+Zambia,Comoros,1.75
+Comoros,Zambia,1.75
+Morocco,Mali,1.75
+Mali,Morocco,1.75
+Angola,Zimbabwe,1.75
+Zimbabwe,Angola,1.75
+South Africa,Egypt,3.5
+Uganda,Tanzania,1.75
+Tanzania,Uganda,1.75
+Tunisia,Nigeria,3.5
+Botswana,Benin,3.5
+Senegal,DR Congo,1.75
+DR Congo,Senegal,1.75
+Equatorial Guinea,Sudan,3.5
+Burkina Faso,Algeria,3.5
+Gabon,Mozambique,3.5
+Ivory Coast,Cameroon,1.75
+Cameroon,Ivory Coast,1.75
+Zambia,Morocco,3.5
+Comoros,Mali,1.75
+Mali,Comoros,1.75
+Angola,Egypt,1.75
+Egypt,Angola,1.75
+Zimbabwe,South Africa,3.5
+Uganda,Nigeria,3.5
+Tanzania,Tunisia,1.75
+Tunisia,Tanzania,1.75
+Benin,Senegal,3.5
+Botswana,DR Congo,3.5
+Equatorial Guinea,Algeria,3.5
+Sudan,Burkina Faso,3.5
+Gabon,Ivory Coast,3.5
+Mozambique,Cameroon,3.5
+Sudan,Senegal,3.5
+Mali,Tunisia,1.75
+Tunisia,Mali,1.75
+Tanzania,Morocco,3.5
+South Africa,Cameroon,3.5
+Benin,Egypt,3.5
+Mozambique,Nigeria,3.5
+DR Congo,Algeria,3.5
+Burkina Faso,Ivory Coast,3.5
+Mali,Senegal,3.5
+Cameroon,Morocco,3.5
+Algeria,Nigeria,3.5
+Ivory Coast,Egypt,3.5
+Egypt,Senegal,3.5
+Morocco,Nigeria,1.75
+Nigeria,Morocco,1.75
+Egypt,Nigeria,1.75
+Nigeria,Egypt,1.75
+Senegal,Morocco,3.5
+Bolivia,Panama,0.5
+Panama,Bolivia,0.5
+Grenada,Jamaica,1.0
+Panama,Mexico,1.0
+Bolivia,Mexico,1.0
+Uzbekistan,China,0.5
+China,Uzbekistan,0.5
+Iceland,Mexico,1.0
+Trinidad and Tobago,Bolivia,1.0
+Bermuda,DR Congo,1.0
+Kyrgyzstan,Equatorial Guinea,1.0
+Namibia,Kazakhstan,2.0
+American Samoa,United States Virgin Islands,2.0
+Guam,Puerto Rico,2.0
+Brazil,France,1.0
+Colombia,Croatia,1.0
+Cyprus,Belarus,1.0
+Georgia,Israel,0.5
+Israel,Georgia,0.5
+Moldova,Lithuania,1.0
+Bangladesh,Vietnam,1.0
+New Caledonia,Jamaica,4.0
+Suriname,Bolivia,4.0
+Northern Ireland,Italy,4.0
+Wales,Bosnia and Herzegovina,2.0
+Bosnia and Herzegovina,Wales,2.0
+Albania,Poland,4.0
+Ukraine,Sweden,4.0
+Slovakia,Kosovo,4.0
+Romania,Turkey,4.0
+Czech Republic,Republic of Ireland,2.0
+Republic of Ireland,Czech Republic,2.0
+North Macedonia,Denmark,4.0
+Macau,Aruba,2.0
+Tanzania,Liechtenstein,2.0
+Martinique,Cuba,1.0
+Cuba,Martinique,1.0
+Dominican Republic,El Salvador,1.0
+El Salvador,Dominican Republic,1.0
+Barbados,Saint Martin,2.0
+Saint Vincent and the Grenadines,Bonaire,2.0
+Bahamas,Anguilla,2.0
+Cayman Islands,British Virgin Islands,1.0
+British Virgin Islands,Cayman Islands,1.0
+Guatemala,Algeria,1.0
+Mauritania,Argentina,1.0
+Ghana,Austria,1.0
+England,Uruguay,0.5
+Uruguay,England,0.5
+Greece,Paraguay,1.0
+Guinea,Togo,1.0
+Togo,Guinea,1.0
+Liberia,Benin,2.0
+Libya,Niger,1.0
+Niger,Libya,1.0
+Andorra,Montenegro,1.0
+Morocco,Ecuador,0.5
+Ecuador,Morocco,0.5
+Norway,Netherlands,1.0
+Saudi Arabia,Egypt,1.0
+South Africa,Panama,0.5
+Panama,South Africa,0.5
+Serbia,Spain,1.0
+Nicaragua,Russia,1.0
+Switzerland,Germany,1.0
+Costa Rica,Jordan,0.5
+Jordan,Costa Rica,0.5
+Iran,Nigeria,1.0
+Curaçao,China,2.0
+Cameroon,Australia,2.0
+Saint Lucia,Azerbaijan,2.0
+Solomon Islands,Bulgaria,2.0
+Saint Kitts and Nevis,Indonesia,2.0
+Cape Verde,Chile,2.0
+New Zealand,Finland,2.0
+Kenya,Estonia,1.0
+Estonia,Kenya,1.0
+Grenada,Rwanda,2.0
+Trinidad and Tobago,Venezuela,2.0
+Gabon,Uzbekistan,2.0
+Dominica,Guyana,2.0
+Belize,Sint Maarten,2.0
+Guinea-Bissau,Burkina Faso,1.0
+Canada,Iceland,0.5
+Iceland,Canada,0.5
+Haiti,Tunisia,1.0
+Slovenia,Hungary,1.0
+South Korea,Ivory Coast,1.0
+Mexico,Portugal,0.5
+Portugal,Mexico,0.5
+San Marino,Faroe Islands,1.0
+Scotland,Japan,1.0
+Peru,Senegal,1.0
+United States,Belgium,1.0
+Kyrgyzstan,Madagascar,1.0
+Botswana,Zimbabwe,2.0
+Namibia,Comoros,1.0
+Comoros,Namibia,1.0
+American Samoa,Guam,2.0
+United States Virgin Islands,Puerto Rico,2.0
+Armenia,Belarus,1.0
+Colombia,France,1.0
+Lithuania,Georgia,1.0
+Macau,Tanzania,2.0
+Liechtenstein,Aruba,2.0
+Martinique,El Salvador,2.0
+Dominican Republic,Cuba,1.0
+Cuba,Dominican Republic,1.0
+Barbados,Saint Vincent and the Grenadines,2.0
+Bonaire,Saint Martin,2.0
+Anguilla,British Virgin Islands,2.0
+Bahamas,Cayman Islands,2.0
+Moldova,Cyprus,1.0
+Ghana,Germany,1.0
+Azerbaijan,Sierra Leone,1.0
+Sierra Leone,Azerbaijan,1.0
+Solomon Islands,Saint Kitts and Nevis,2.0
+Indonesia,Bulgaria,2.0
+Cape Verde,Finland,1.0
+Finland,Cape Verde,1.0
+Chile,New Zealand,2.0
+Grenada,Kenya,2.0
+Estonia,Rwanda,2.0
+Gabon,Trinidad and Tobago,1.0
+Trinidad and Tobago,Gabon,1.0
+Uzbekistan,Venezuela,1.0
+Venezuela,Uzbekistan,1.0
+Belize,Guyana,2.0
+Dominica,Sint Maarten,1.0
+Sint Maarten,Dominica,1.0
+Algeria,Uruguay,0.5
+Uruguay,Algeria,0.5
+Zambia,Argentina,1.0
+South Korea,Austria,1.0
+Guinea,Benin,2.0
+Croatia,Brazil,1.0
+Burkina Faso,Guinea-Bissau,0.5
+Guinea-Bissau,Burkina Faso,0.5
+Canada,Tunisia,0.5
+Tunisia,Canada,0.5
+Costa Rica,Iran,1.0
+England,Japan,1.0
+Equatorial Guinea,Madagascar,0.5
+Madagascar,Equatorial Guinea,0.5
+Haiti,Iceland,0.5
+Iceland,Haiti,0.5
+Hungary,Greece,0.5
+Greece,Hungary,0.5
+Scotland,Ivory Coast,1.0
+Jordan,Nigeria,0.5
+Nigeria,Jordan,0.5
+Liberia,Libya,1.0
+Libya,Liberia,1.0
+Malawi,Botswana,2.0
+Mexico,Belgium,0.5
+Belgium,Mexico,0.5
+Montenegro,Slovenia,1.0
+Paraguay,Morocco,1.0
+Netherlands,Ecuador,0.5
+Ecuador,Netherlands,0.5
+Niger,Togo,2.0
+Norway,Switzerland,0.5
+Switzerland,Norway,0.5
+Peru,Honduras,0.5
+Honduras,Peru,0.5
+Russia,Mali,0.5
+Mali,Russia,0.5
+Republic of Ireland,North Macedonia,0.5
+North Macedonia,Republic of Ireland,0.5
+San Marino,Andorra,0.5
+Andorra,San Marino,0.5
+Gambia,Senegal,1.0
+Saudi Arabia,Serbia,1.0
+Romania,Slovakia,1.0
+South Africa,Panama,1.0
+Spain,Egypt,0.5
+Egypt,Spain,0.5
+Albania,Ukraine,1.0
+United States,Portugal,1.0
+Wales,Northern Ireland,0.5
+Northern Ireland,Wales,0.5
+Jamaica,DR Congo,4.0
+Bolivia,Iraq,4.0
+Bosnia and Herzegovina,Italy,2.0
+Italy,Bosnia and Herzegovina,2.0
+Poland,Sweden,4.0
+Kosovo,Turkey,4.0
+Czech Republic,Denmark,2.0
+Denmark,Czech Republic,2.0
+China,Cameroon,2.0
+Curaçao,Australia,2.0
+Comoros,Kazakhstan,2.0
+Grenada,Republic of Ireland,1.0
+Ghana,Mexico,1.0
+Burundi,Morocco,1.0
+Zimbabwe,Nigeria,3.5
+India,Jamaica,3.5
+Qatar,Republic of Ireland,1.0
+Russia,Egypt,1.0
+Andorra,Iraq,1.0
+Bosnia and Herzegovina,North Macedonia,0.5
+North Macedonia,Bosnia and Herzegovina,0.5
+Gambia,Iran,1.0
+South Africa,Nicaragua,0.5
+Nicaragua,South Africa,0.5
+Saudi Arabia,Ecuador,1.0
+Trinidad and Tobago,South Korea,1.0
+Australia,Mexico,1.0
+Curaçao,Scotland,1.0
+India,Zimbabwe,3.5
+Jamaica,Nigeria,3.5
+Panama,Brazil,1.0
+Serbia,Cape Verde,1.0
+Kosovo,Czech Republic,1.0
+Finland,Germany,1.0
+Poland,Ukraine,1.0
+Mongolia,Singapore,1.0
+Jordan,Switzerland,1.0
+Senegal,United States,1.0
+Iceland,Japan,1.0
+Tunisia,Austria,1.0
+Bulgaria,Montenegro,1.0
+Uzbekistan,Canada,1.0
+Costa Rica,Colombia,1.0
+Sweden,Norway,1.0
+Malta,Slovakia,1.0
+North Macedonia,Turkey,1.0
+Maldives,Afghanistan,2.0
+Croatia,Belgium,1.0
+Georgia,Romania,0.5
+Romania,Georgia,0.5
+New Zealand,Haiti,1.0
+Madagascar,Morocco,1.0
+Wales,Ghana,0.5
+Ghana,Wales,0.5
+Raetia,Padania,3.5
+Rouet-Provence,Canton Ticino,3.5
+Greenland,Padania,3.5
+Canton Ticino,Northern Cyprus,3.5
+Albania,Israel,1.0
+DR Congo,Denmark,0.5
+Denmark,DR Congo,0.5
+British Virgin Islands,Gibraltar,1.0
+El Salvador,South Korea,1.0
+Luxembourg,Italy,1.0
+Netherlands,Algeria,1.0
+Dominican Republic,Panama,1.0
+Poland,Nigeria,0.5
+Nigeria,Poland,0.5
+Guam,Philippines,1.0
+Raetia,Greenland,3.5
+Rouet-Provence,Northern Cyprus,3.5
+Maldives,Pakistan,2.0
+Liechtenstein,Andorra,1.0
+Bhutan,Cambodia,1.0
+France,Ivory Coast,1.0
+Guatemala,Czech Republic,1.0
+Mali,Iran,1.0
+Lesotho,Kenya,0.5
+Kenya,Lesotho,0.5
+Serbia,Mexico,1.0
+Guinea,Northern Ireland,1.0
+Slovenia,Cyprus,0.5
+Cyprus,Slovenia,0.5
+Spain,Iraq,0.5
+Iraq,Spain,0.5
+Sweden,Greece,0.5
+Greece,Sweden,0.5
+Angola,Mauritania,0.5
+Mauritania,Angola,0.5
+Azerbaijan,Malta,1.0
+Syria,Belarus,1.0
+Canada,Republic of Ireland,0.5
+Republic of Ireland,Canada,0.5
+Bahrain,Georgia,1.0
+Haiti,Peru,1.0
+Mongolia,Hong Kong,1.0
+Finland,Hungary,1.0
+Oman,Indonesia,1.0
+Moldova,Bulgaria,0.5
+Bulgaria,Moldova,0.5
+Nicaragua,Paraguay,1.0
+San Marino,Bangladesh,1.0
+Singapore,China,1.0
+Slovakia,Montenegro,0.5
+Montenegro,Slovakia,0.5
+India,Tajikistan,1.0
+Thailand,Kuwait,0.5
+Kuwait,Thailand,0.5
+Burkina Faso,Russia,1.0
+Benin,Niger,0.5
+Niger,Benin,0.5
+Central African Republic,Togo,0.5
+Togo,Central African Republic,0.5
+Puerto Rico,Saudi Arabia,1.0
+Raetia,Rouet-Provence,1.75
+Rouet-Provence,Raetia,1.75
+Canton Ticino,Greenland,3.5
+Padania,Northern Cyprus,3.5
+Fiji,Vanuatu,1.0
+Albania,Luxembourg,1.0
+Honduras,Argentina,1.0
+Armenia,Kazakhstan,0.5
+Kazakhstan,Armenia,0.5
+Australia,Switzerland,0.5
+Switzerland,Australia,0.5
+Tunisia,Belgium,1.0
+Cape Verde,Bermuda,1.0
+Bolivia,Scotland,1.0
+Egypt,Brazil,1.0
+Aruba,Curaçao,1.0
+New Zealand,England,1.0
+Liberia,Sierra Leone,1.0
+Malawi,Ethiopia,1.0
+Jamaica,South Africa,1.0
+Kyrgyzstan,Palestine,0.5
+Palestine,Kyrgyzstan,0.5
+Panama,Bosnia and Herzegovina,0.5
+Bosnia and Herzegovina,Panama,0.5
+Chile,Portugal,1.0
+Qatar,El Salvador,0.5
+El Salvador,Qatar,0.5
+Wales,Romania,1.0
+United States,Germany,1.0
+Bonaire,British Virgin Islands,1.0
+Cayman Islands,Gibraltar,1.0
+Venezuela,Turkey,1.0
+Guam,Myanmar,3.5
+Lithuania,Latvia,1.75
+Latvia,Lithuania,1.75
+Faroe Islands,Estonia,3.5
+Afghanistan,Pakistan,2.0
+Slovenia,Croatia,1.0
+Guatemala,Ecuador,1.0
+Greece,Italy,1.0
+Jordan,Colombia,1.0
+Andorra,Kosovo,1.0
+Liechtenstein,Cyprus,1.0
+Morocco,Norway,0.5
+Norway,Morocco,0.5
+Ukraine,Denmark,1.0
+Northern Ireland,France,1.0
+Uzbekistan,Netherlands,1.0
+Peru,Spain,1.0
+Niger,Mauritania,1.0
+Central African Republic,Angola,1.0
+Iceland,Argentina,1.0
+Armenia,Moldova,0.5
+Moldova,Armenia,0.5
+San Marino,Azerbaijan,1.0
+Belarus,Burkina Faso,0.5
+Burkina Faso,Belarus,0.5
+Hong Kong,Cambodia,1.0
+China,Thailand,0.5
+Thailand,China,0.5
+DR Congo,Chile,1.0
+Equatorial Guinea,Comoros,1.0
+Ethiopia,Malawi,0.5
+Malawi,Ethiopia,0.5
+Kazakhstan,Hungary,1.0
+Mozambique,Indonesia,1.0
+Kyrgyzstan,Palestine,0.5
+Palestine,Kyrgyzstan,0.5
+Saudi Arabia,Senegal,0.5
+Senegal,Saudi Arabia,0.5
+Tajikistan,India,0.5
+India,Tajikistan,0.5
+Myanmar,Philippines,3.5
+Latvia,Faroe Islands,3.5
+Lithuania,Estonia,3.5
+Trinidad and Tobago,Russia,1.0
+Benin,Togo,1.0
+Sierra Leone,Liberia,1.0
+Iraq,Venezuela,1.0
+Bolivia,Algeria,1.0
+Costa Rica,England,1.0
+Nigeria,Portugal,1.0
+Afghanistan,Pakistan,2.0
+South Africa,Mexico,4.0
+Czech Republic,South Korea,4.0
+Canada,Bosnia and Herzegovina,2.0
+Bosnia and Herzegovina,Canada,2.0
+Paraguay,United States,4.0
+Qatar,Switzerland,2.0
+Switzerland,Qatar,2.0
+Brazil,Morocco,2.0
+Morocco,Brazil,2.0
+Haiti,Scotland,4.0
+Turkey,Australia,4.0
+Curaçao,Germany,4.0
+Ecuador,Ivory Coast,4.0
+Netherlands,Japan,2.0
+Japan,Netherlands,2.0
+Tunisia,Sweden,4.0
+Belgium,Egypt,2.0
+Egypt,Belgium,2.0
+Iran,New Zealand,2.0
+New Zealand,Iran,2.0
+Spain,Cape Verde,2.0
+Cape Verde,Spain,2.0
+Saudi Arabia,Uruguay,2.0
+Uruguay,Saudi Arabia,2.0
+Senegal,France,4.0
+Iraq,Norway,4.0
+Algeria,Argentina,4.0
+Jordan,Austria,4.0
+Portugal,DR Congo,2.0
+DR Congo,Portugal,2.0
+Uzbekistan,Colombia,4.0
+Croatia,England,4.0
+Panama,Ghana,4.0
+Czech Republic,South Africa,2.0
+South Africa,Czech Republic,2.0
+South Korea,Mexico,4.0
+Bosnia and Herzegovina,Switzerland,4.0
+Qatar,Canada,4.0
+Scotland,Morocco,4.0
+Haiti,Brazil,4.0
+Australia,United States,4.0
+Turkey,Paraguay,4.0
+Ivory Coast,Germany,4.0
+Ecuador,Curaçao,2.0
+Curaçao,Ecuador,2.0
+Sweden,Netherlands,4.0
+Tunisia,Japan,4.0
+Belgium,Iran,2.0
+Iran,Belgium,2.0
+New Zealand,Egypt,4.0
+Saudi Arabia,Spain,4.0
+Uruguay,Cape Verde,2.0
+Cape Verde,Uruguay,2.0
+Iraq,France,4.0
+Senegal,Norway,4.0
+Austria,Argentina,4.0
+Jordan,Algeria,4.0
+Uzbekistan,Portugal,4.0
+DR Congo,Colombia,4.0
+England,Ghana,2.0
+Ghana,England,2.0
+Panama,Croatia,4.0
+Czech Republic,Mexico,4.0
+South Korea,South Africa,4.0
+Canada,Switzerland,4.0
+Qatar,Bosnia and Herzegovina,4.0
+Scotland,Brazil,4.0
+Haiti,Morocco,4.0
+United States,Turkey,4.0
+Paraguay,Australia,2.0
+Australia,Paraguay,2.0
+Curaçao,Ivory Coast,4.0
+Germany,Ecuador,4.0
+Japan,Sweden,2.0
+Sweden,Japan,2.0
+Tunisia,Netherlands,4.0
+Egypt,Iran,2.0
+Iran,Egypt,2.0
+New Zealand,Belgium,4.0
+Cape Verde,Saudi Arabia,2.0
+Saudi Arabia,Cape Verde,2.0
+Uruguay,Spain,4.0
+Norway,France,4.0
+Iraq,Senegal,4.0
+Algeria,Austria,2.0
+Austria,Algeria,2.0
+Jordan,Argentina,4.0
+Colombia,Portugal,2.0
+Portugal,Colombia,2.0
+Uzbekistan,DR Congo,4.0
+Panama,England,4.0
+Ghana,Croatia,4.0
+South Africa,Canada,4.0
+Japan,Brazil,4.0
+Germany,Paraguay,2.0
+Paraguay,Germany,2.0
+Netherlands,Morocco,2.0
+Morocco,Netherlands,2.0
+Ivory Coast,Norway,4.0
+Sweden,France,4.0
+Ecuador,Mexico,4.0
+DR Congo,England,4.0
+Senegal,Belgium,4.0
+Bosnia and Herzegovina,United States,4.0
+Austria,Spain,4.0
+Croatia,Portugal,4.0
+Algeria,Switzerland,4.0
+Australia,Egypt,2.0
+Egypt,Australia,2.0
+Cape Verde,Argentina,4.0
+Ghana,Colombia,4.0
+Canada,Morocco,4.0
+Paraguay,France,4.0
+Brazil,Norway,4.0
+Mexico,England,4.0
+Portugal,Spain,4.0
+United States,Belgium,4.0
+Egypt,Argentina,4.0
+Switzerland,Colombia,2.0
+Colombia,Switzerland,2.0
+Morocco,France,4.0
+Belgium,Spain,4.0
+Norway,England,4.0
+Switzerland,Argentina,4.0
+France,Spain,4.0
+England,Argentina,4.0
+France,England,4.0
+Myanmar,Vietnam,1.0
+Argentina,Spain,4.0
