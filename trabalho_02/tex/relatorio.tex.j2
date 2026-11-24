@@ -1,0 +1,12 @@
+((* extends 'index.tex.j2' *))
+
+((* block packages *))
+((( super() )))
+    % pandoc tables use \def\LTcaptype{none}; newer longtable needs this counter to exist
+    \newcounter{none}
+    \usepackage[brazil]{babel} % hifenização em português
+    \setcounter{secnumdepth}{0} % os títulos do notebook já trazem a numeração
+((* endblock packages *))
+
+% o título vem da primeira célula (H1); sem o título automático "simulacao_nb" + data
+((* block maketitle *))((* endblock maketitle *))
