@@ -1,12 +1,28 @@
 ((* extends 'index.tex.j2' *))
 
+((* block docclass *))\documentclass[10pt,a4paper]{article}((* endblock docclass *))
+
 ((* block packages *))
 ((( super() )))
     % pandoc tables use \def\LTcaptype{none}; newer longtable needs this counter to exist
     \newcounter{none}
     \usepackage[brazil]{babel} % hifenização em português
     \setcounter{secnumdepth}{0} % os títulos do notebook já trazem a numeração
+    % tabelas curtas não são partidas entre páginas: se não houver espaço, vão inteiras para a próxima
+    \usepackage{needspace}
+    \pretocmd{\longtable}{\needspace{7\baselineskip}}{}{}
 ((* endblock packages *))
+
+((* block margins *))
+    \geometry{verbose,tmargin=2cm,bmargin=2cm,lmargin=2cm,rmargin=2cm}
+((* endblock margins *))
 
 % o título vem da primeira célula (H1); sem o título automático "simulacao_nb" + data
 ((* block maketitle *))((* endblock maketitle *))
+
+% figura na largura do texto, sem a linha em branco que o template padrão põe depois
+((* block figure scoped *))
+    \begin{center}
+    \adjustimage{max size={\linewidth}{0.9\paperheight}}{((( filename )))}
+    \end{center}
+((* endblock figure *))
